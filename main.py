@@ -12,6 +12,7 @@
 ('repos_url', 'https://api.github.com/users/QIN2DIM/repos')
 ('events_url', 'https://api.github.com/users/QIN2DIM/events{/privacy}')
 ('received_events_url', 'https://api.github.com/users/QIN2DIM/received_events')
+('issues_url', 'https://api.github.com/search/issues?q=type:pr+is:merged+author:QIN2DIM&per_page=100')
 """
 # -*- coding: utf-8 -*-
 # Time       : 2022/5/11 18:48
@@ -30,6 +31,7 @@ API_ROOT = "https://api.github.com"
 USER_ROOT = f"{API_ROOT}/users/{GITHUB_ACTOR}"
 REPO_URLS = f"{USER_ROOT}/repos"
 EVENT_URLS = f"{USER_ROOT}/events"
+ISSUE_URLS = f"{API_ROOT}/search/issues?q=type:pr+is:merged+author:{GITHUB_ACTOR}&per_page=100"
 
 GITHUB_STEP_SUMMARY = "GITHUB_STEP_SUMMARY"
 
@@ -62,9 +64,7 @@ class GitUserStatus:
         # Split tasks according to the number of projects.
         # 30 <= per_page <= 100
         self.per_page = 100
-        self.pages = (
-            1 if self.public_repos <= self.per_page else int(self.public_repos / self.per_page) + 1
-        )
+        self.pages = 1 if self.public_repos <= self.per_page else int(self.public_repos / self.per_page) + 1
 
     def _init_user_info(self):
         self.user_obj.update(requests.get(USER_ROOT).json())
@@ -143,6 +143,49 @@ class GitUserStatus:
                     "stick": f"[{stick_alias}]({stick_url})",
                 }
                 self.repo2hyperlink[repo_name] = stick_url
+
+    def get_contributed_repos(self):
+        skip_repo = []
+        content = []
+        repo2stars = {}
+        for _, page in enumerate(range(1, 10)):
+            url = f"{ISSUE_URLS}?page={page}&&per_page=100"
+            events = requests.get(url).json()
+            # if isinstance(events, dict):
+            #     break
+            if events.get("items") is not None:
+                content.extend(events["items"])
+                print(events["items"])
+        print(content)
+
+        for event in reversed(content):
+            repo_name = f'{event["repository_url"].split("/")[-2]}/{event["repository_url"].split("/")[-1]}'
+            repo_api = event["repository_url"]
+            if repo_name in skip_repo:
+                continue
+            if not repo2stars.get(repo_name):
+                data = requests.get(repo_api).json()
+                try:
+                    repo2stars[repo_name] = data["stargazers_count"]
+                except KeyError:
+                    message = data.get("message", "")
+                    if "Not Found" in message:
+                        skip_repo.append(repo_name)
+                        continue
+                    elif "limited" in message:
+                        break
+
+            updated_at = event["updated_at"]
+            stick_url = event["html_url"]
+            stick_alias = f"pull/{event['number']}"
+            self.contributed_repo_objs[repo_name] = {
+                "stars": repo2stars[repo_name],
+                "updated_at": updated_at,
+                "stick": f"[{stick_alias}]({stick_url})",
+            }
+            self.repo2hyperlink[repo_name] = stick_url
+
+        print(self.contributed_repo_objs)
 
 
 class MarkdownTemplater:
@@ -223,7 +266,8 @@ def cache_summary(summary):
 def roll_user_data():
     gus = GitUserStatus()
     gus.get_repos_info()
-    gus.get_user_events()
+    # gus.get_user_events()
+    gus.get_contributed_repos()
 
     return gus
 
@@ -250,9 +294,7 @@ def arrange_summary():
     # === Repositories Statistics ===
     mt.to_title("Sources", level=3)
     # -- Arrange content --
-    repo_obj = sorted(
-        gus.repo_objs.items(), key=lambda kv: (kv[-1]["pushed_at"], kv[0]), reverse=True
-    )
+    repo_obj = sorted(gus.repo_objs.items(), key=lambda kv: (kv[-1]["pushed_at"], kv[0]), reverse=True)
     title = ["name"] + list(repo_obj[0][-1].keys())
     sequence = [[f"[{k}]({gus.repo2hyperlink[k]})"] + list(v.values()) for k, v in repo_obj]
     # -- Write content --
@@ -262,9 +304,7 @@ def arrange_summary():
     # === Forked ===
     mt.to_title("Forks", level=3)
     # -- Arrange content --
-    repo_obj = sorted(
-        gus.forked_repo_objs.items(), key=lambda kv: (kv[-1]["pushed_at"], kv[0]), reverse=True
-    )
+    repo_obj = sorted(gus.forked_repo_objs.items(), key=lambda kv: (kv[-1]["pushed_at"], kv[0]), reverse=True)
     title = ["name"] + list(repo_obj[0][-1].keys())
     sequence = [[f"[{k}]({gus.repo2hyperlink[k]})"] + list(v.values()) for k, v in repo_obj]
     # -- Write content --
@@ -274,9 +314,7 @@ def arrange_summary():
     # === Contributed ===
     mt.to_title("Contributed", level=3)
     # -- Arrange content --
-    repo_obj = sorted(
-        gus.contributed_repo_objs.items(), key=lambda kv: (kv[-1]["stars"], kv[0]), reverse=True
-    )
+    repo_obj = sorted(gus.contributed_repo_objs.items(), key=lambda kv: (kv[-1]["stars"], kv[0]), reverse=True)
     title = ["name"] + list(repo_obj[0][-1].keys())
     sequence = [[f"[{k}]({gus.repo2hyperlink[k]})"] + list(v.values()) for k, v in repo_obj]
     # -- Write content --
