@@ -11,8 +11,6 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "25 0 * * *"
-  pull_request:
-    branches: [main]
 
 jobs:
   build:
