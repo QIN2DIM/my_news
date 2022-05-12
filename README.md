@@ -4,7 +4,7 @@
 
 ## Statistics
 
-> Automated deployment @ 2022-05-13 02:50:52 Asia/Shanghai
+> Automated deployment @ 2022-05-13 02:55:46 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 211
@@ -17,7 +17,7 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/pull/14)|4|0|2022-05-12T16:19:09Z|
+|[beiyuouo/fedhf](https://github.com/beiyuouo/fedhf)|4|0|2022-05-12T16:19:09Z|
 |[beiyuouo/fedcomp](https://github.com/beiyuouo/fedcomp)|0|0|2022-05-12T16:14:41Z|
 |[beiyuouo/arxiv-daily](https://github.com/beiyuouo/arxiv-daily)|41|7|2022-05-12T13:30:22Z|
 |[beiyuouo/beiyuouo](https://github.com/beiyuouo/beiyuouo)|1|0|2022-05-12T02:01:10Z|
@@ -46,10 +46,10 @@
 |[beiyuouo/go-smaller](https://github.com/beiyuouo/go-smaller)|1|0|2021-12-03T14:08:46Z|
 |[beiyuouo/taichi-hw](https://github.com/beiyuouo/taichi-hw)|3|0|2021-12-03T05:44:17Z|
 |[beiyuouo/magic-paper-cut](https://github.com/beiyuouo/magic-paper-cut)|0|0|2021-11-30T03:09:58Z|
-|[beiyuouo/auto-gui-chu](https://github.com/beiyuouo/auto-gui-chu/pull/2)|5|1|2021-11-30T03:08:41Z|
+|[beiyuouo/auto-gui-chu](https://github.com/beiyuouo/auto-gui-chu)|5|1|2021-11-30T03:08:41Z|
 |[beiyuouo/paper-reimplementation-repo](https://github.com/beiyuouo/paper-reimplementation-repo)|2|1|2021-11-30T03:07:24Z|
 |[beiyuouo/who-am-i-pokemon-video](https://github.com/beiyuouo/who-am-i-pokemon-video)|0|0|2021-11-22T08:17:15Z|
-|[beiyuouo/bbot](https://github.com/beiyuouo/bbot/pull/15)|17|5|2021-11-19T07:47:51Z|
+|[beiyuouo/bbot](https://github.com/beiyuouo/bbot)|17|5|2021-11-19T07:47:51Z|
 |[beiyuouo/mi-store-log-analysis](https://github.com/beiyuouo/mi-store-log-analysis)|0|0|2021-11-07T13:15:58Z|
 |[beiyuouo/mkdocs-emoticon-gallery](https://github.com/beiyuouo/mkdocs-emoticon-gallery)|2|0|2021-11-02T08:56:15Z|
 |[beiyuouo/blog-hexo](https://github.com/beiyuouo/blog-hexo)|0|0|2021-10-16T09:33:34Z|
@@ -78,7 +78,7 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[beiyuouo/github-contrib](https://github.com/beiyuouo/github-contrib)|0|0|2022-05-12T18:42:22Z|
+|[beiyuouo/github-contrib](https://github.com/beiyuouo/github-contrib)|0|0|2022-05-12T18:55:19Z|
 |[beiyuouo/comments-for-awesome-courses](https://github.com/beiyuouo/comments-for-awesome-courses)|1|2|2022-05-11T16:38:11Z|
 |[beiyuouo/FedML](https://github.com/beiyuouo/FedML)|0|0|2022-05-10T12:37:02Z|
 |[beiyuouo/hcaptcha-challenger](https://github.com/beiyuouo/hcaptcha-challenger)|0|0|2022-05-02T18:22:33Z|
@@ -90,19 +90,16 @@
 |[beiyuouo/openbilibili-go-common](https://github.com/beiyuouo/openbilibili-go-common)|0|0|2019-04-22T12:10:55Z|
 ### Contributed
 
-- **count**: 12
+- **count**: 9
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
 |[QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles/pull/205)|26411|2021-12-28T13:00:05Z|[pull/205](https://github.com/QSCTech/zju-icicles/pull/205)|
-|[PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning/pull/68)|7183|2022-03-22T02:47:44Z|[pull/68](https://github.com/PKUFlyingPig/cs-self-learning/pull/68)|
+|[PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning/pull/68)|7184|2022-03-22T02:47:44Z|[pull/68](https://github.com/PKUFlyingPig/cs-self-learning/pull/68)|
 |[conanhujinming/comments-for-awesome-courses](https://github.com/conanhujinming/comments-for-awesome-courses/pull/36)|1948|2021-10-27T01:13:20Z|[pull/36](https://github.com/conanhujinming/comments-for-awesome-courses/pull/36)|
 |[MLNLP-World/AI-Paper-Collector](https://github.com/MLNLP-World/AI-Paper-Collector/pull/35)|370|2022-05-09T06:51:31Z|[pull/35](https://github.com/MLNLP-World/AI-Paper-Collector/pull/35)|
 |[ChangxingJiang/CxSpider](https://github.com/ChangxingJiang/CxSpider/pull/14)|310|2021-02-17T02:39:57Z|[pull/14](https://github.com/ChangxingJiang/CxSpider/pull/14)|
 |[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger/pull/37)|149|2022-04-30T15:22:55Z|[pull/37](https://github.com/QIN2DIM/hcaptcha-challenger/pull/37)|
 |[SMILELab-FL/FedLab-benchmarks](https://github.com/SMILELab-FL/FedLab-benchmarks/pull/15)|58|2021-11-17T08:50:55Z|[pull/15](https://github.com/SMILELab-FL/FedLab-benchmarks/pull/15)|
 |[reuixiy/hugo-deploy](https://github.com/reuixiy/hugo-deploy/pull/9)|18|2022-04-22T13:39:22Z|[pull/9](https://github.com/reuixiy/hugo-deploy/pull/9)|
-|[beiyuouo/bbot](https://github.com/beiyuouo/bbot/pull/15)|17|2021-11-19T07:47:52Z|[pull/15](https://github.com/beiyuouo/bbot/pull/15)|
 |[QIN2DIM/VulcanAsh](https://github.com/QIN2DIM/VulcanAsh/pull/2)|6|2021-07-26T12:03:23Z|[pull/2](https://github.com/QIN2DIM/VulcanAsh/pull/2)|
-|[beiyuouo/auto-gui-chu](https://github.com/beiyuouo/auto-gui-chu/pull/2)|5|2021-02-13T05:21:04Z|[pull/2](https://github.com/beiyuouo/auto-gui-chu/pull/2)|
-|[beiyuouo/fedhf](https://github.com/beiyuouo/fedhf/pull/14)|4|2022-05-12T16:13:59Z|[pull/14](https://github.com/beiyuouo/fedhf/pull/14)|
