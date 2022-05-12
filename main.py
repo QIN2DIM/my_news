@@ -151,15 +151,14 @@ class GitUserStatus:
         for _, page in enumerate(range(1, 10)):
             url = f"{ISSUE_URLS}?page={page}&&per_page=100"
             events = requests.get(url).json()
-            # if isinstance(events, dict):
-            #     break
             if events.get("items") is not None:
                 content.extend(events["items"])
-                # print(events["items"])
-        # print(content)
 
         for event in reversed(content):
-            repo_name = f'{event["repository_url"].split("/")[-2]}/{event["repository_url"].split("/")[-1]}'
+            repo_owner = event["repository_url"].split("/")[-2]
+            if repo_owner.lower() == GITHUB_ACTOR.lower():  # skip self
+                continue
+            repo_name = f'{repo_owner}/{event["repository_url"].split("/")[-1]}'
             repo_api = event["repository_url"]
             if repo_name in skip_repo:
                 continue
@@ -184,8 +183,6 @@ class GitUserStatus:
                 "stick": f"[{stick_alias}]({stick_url})",
             }
             self.repo2hyperlink[repo_name] = stick_url
-
-        # print(self.contributed_repo_objs)
 
 
 class MarkdownTemplater:
