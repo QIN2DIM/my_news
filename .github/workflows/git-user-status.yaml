@@ -20,15 +20,19 @@ jobs:
     env:
       FAKE_HASH: "Automated deployment @ $(date '+%Y-%m-%d %H:%M:%S') Asia/Shanghai"
     steps:
-      - uses: actions/checkout@v2
-      - name: Setup GIT user
+      -
+        uses: actions/checkout@v2
+      -
+        name: Setup GIT user
         uses: fregante/setup-git-user@v1
-      - name: Adding markdown
+      -
+        name: Adding markdown
         run: |
           sudo timedatectl set-timezone "Asia/Shanghai"
           pip install requests && python main.py
           echo "$(cat README.md)" >> $GITHUB_STEP_SUMMARY
-      - name: Push
+      -
+        name: Push
         run: |
           git add .
           git commit -m "${{ env.FAKE_HASH }}" 
