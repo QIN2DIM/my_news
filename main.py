@@ -155,8 +155,8 @@ class GitUserStatus:
             #     break
             if events.get("items") is not None:
                 content.extend(events["items"])
-                print(events["items"])
-        print(content)
+                # print(events["items"])
+        # print(content)
 
         for event in reversed(content):
             repo_name = f'{event["repository_url"].split("/")[-2]}/{event["repository_url"].split("/")[-1]}'
@@ -185,7 +185,7 @@ class GitUserStatus:
             }
             self.repo2hyperlink[repo_name] = stick_url
 
-        print(self.contributed_repo_objs)
+        # print(self.contributed_repo_objs)
 
 
 class MarkdownTemplater:
