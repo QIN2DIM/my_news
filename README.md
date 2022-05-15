@@ -4,10 +4,10 @@
 
 ## Statistics
 
-> Automated deployment @ 2022-05-15 04:21:01 Asia/Shanghai
+> Automated deployment @ 2022-05-15 10:28:26 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 1514
+- **Total_stars_earned**: 1513
 
 - **Projects**: 62
 
@@ -17,9 +17,9 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|1|1|2022-05-14T20:21:01Z|
 |[QIN2DIM/Estella](https://github.com/QIN2DIM/Estella)|1|0|2022-05-14T18:00:27Z|
 |[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|273|158|2022-05-14T14:30:13Z|
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|1|1|2022-05-14T02:45:32Z|
 |[QIN2DIM/qin2dim.github.io](https://github.com/QIN2DIM/qin2dim.github.io)|1|0|2022-05-13T17:40:05Z|
 |[QIN2DIM/PigAI_GPT2](https://github.com/QIN2DIM/PigAI_GPT2)|28|6|2022-05-11T09:27:22Z|
 |[QIN2DIM/AI_Paper_Explorer](https://github.com/QIN2DIM/AI_Paper_Explorer)|0|0|2022-05-09T08:52:26Z|
@@ -27,7 +27,7 @@
 |[QIN2DIM/img_pool](https://github.com/QIN2DIM/img_pool)|1|1|2022-04-30T22:47:00Z|
 |[QIN2DIM/armour-geetest](https://github.com/QIN2DIM/armour-geetest)|28|9|2022-04-27T14:24:04Z|
 |[QIN2DIM/blog-nav](https://github.com/QIN2DIM/blog-nav)|1|1|2022-04-17T06:55:21Z|
-|[QIN2DIM/V2RayCloudSpider](https://github.com/QIN2DIM/V2RayCloudSpider)|959|236|2022-04-15T17:54:07Z|
+|[QIN2DIM/V2RayCloudSpider](https://github.com/QIN2DIM/V2RayCloudSpider)|958|236|2022-04-15T17:54:07Z|
 |[QIN2DIM/gitee-deleter](https://github.com/QIN2DIM/gitee-deleter)|1|0|2022-04-15T16:27:03Z|
 |[QIN2DIM/v2rss-docs](https://github.com/QIN2DIM/v2rss-docs)|1|1|2022-04-04T11:30:35Z|
 |[QIN2DIM/QIN2DIM](https://github.com/QIN2DIM/QIN2DIM)|1|1|2022-03-27T15:17:11Z|
