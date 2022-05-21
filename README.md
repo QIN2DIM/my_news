@@ -4,10 +4,10 @@
 
 ## Statistics
 
-> Automated deployment @ 2022-05-21 16:43:25 Asia/Shanghai
+> Automated deployment @ 2022-05-21 20:59:31 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 1559
+- **Total_stars_earned**: 1562
 
 - **Projects**: 62
 
@@ -17,18 +17,18 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|2|1|2022-05-21T04:48:24Z|
-|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|282|169|2022-05-21T01:23:12Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|2|1|2022-05-21T08:43:26Z|
+|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|283|171|2022-05-21T01:23:12Z|
 |[QIN2DIM/gitee-deleter](https://github.com/QIN2DIM/gitee-deleter)|11|0|2022-05-18T13:36:22Z|
 |[QIN2DIM/qin2dim.github.io](https://github.com/QIN2DIM/qin2dim.github.io)|2|0|2022-05-17T16:38:10Z|
 |[QIN2DIM/Estella](https://github.com/QIN2DIM/Estella)|2|0|2022-05-14T18:00:27Z|
 |[QIN2DIM/PigAI_GPT2](https://github.com/QIN2DIM/PigAI_GPT2)|28|6|2022-05-11T09:27:22Z|
 |[QIN2DIM/AI_Paper_Explorer](https://github.com/QIN2DIM/AI_Paper_Explorer)|1|0|2022-05-09T08:52:26Z|
 |[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|163|44|2022-05-01T17:08:24Z|
-|[QIN2DIM/img_pool](https://github.com/QIN2DIM/img_pool)|3|1|2022-04-30T22:47:00Z|
+|[QIN2DIM/img_pool](https://github.com/QIN2DIM/img_pool)|4|1|2022-04-30T22:47:00Z|
 |[QIN2DIM/armour-geetest](https://github.com/QIN2DIM/armour-geetest)|28|9|2022-04-27T14:24:04Z|
 |[QIN2DIM/blog-nav](https://github.com/QIN2DIM/blog-nav)|2|1|2022-04-17T06:55:21Z|
-|[QIN2DIM/V2RayCloudSpider](https://github.com/QIN2DIM/V2RayCloudSpider)|961|235|2022-04-15T17:54:07Z|
+|[QIN2DIM/V2RayCloudSpider](https://github.com/QIN2DIM/V2RayCloudSpider)|962|235|2022-04-15T17:54:07Z|
 |[QIN2DIM/v2rss-docs](https://github.com/QIN2DIM/v2rss-docs)|1|1|2022-04-04T11:30:35Z|
 |[QIN2DIM/QIN2DIM](https://github.com/QIN2DIM/QIN2DIM)|2|1|2022-03-27T15:17:11Z|
 |[QIN2DIM/recaptcha-challenger](https://github.com/QIN2DIM/recaptcha-challenger)|3|0|2022-02-24T14:16:39Z|
