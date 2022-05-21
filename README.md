@@ -4,7 +4,7 @@
 
 ## Statistics
 
-> Automated deployment @ 2022-05-22 00:53:28 Asia/Shanghai
+> Automated deployment @ 2022-05-22 04:38:39 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 1562
@@ -17,8 +17,8 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|2|1|2022-05-21T16:53:28Z|
 |[QIN2DIM/PigAI_GPT2](https://github.com/QIN2DIM/PigAI_GPT2)|28|6|2022-05-21T13:04:17Z|
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|2|1|2022-05-21T12:59:31Z|
 |[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|283|172|2022-05-21T01:23:12Z|
 |[QIN2DIM/gitee-deleter](https://github.com/QIN2DIM/gitee-deleter)|11|0|2022-05-18T13:36:22Z|
 |[QIN2DIM/qin2dim.github.io](https://github.com/QIN2DIM/qin2dim.github.io)|2|0|2022-05-17T16:38:10Z|
