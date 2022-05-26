@@ -4,7 +4,7 @@
 
 ## Statistics
 
-> Automated deployment @ 2022-05-26 10:37:03 Asia/Shanghai
+> Automated deployment @ 2022-05-26 12:56:03 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 1578
@@ -17,11 +17,11 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|2|1|2022-05-25T20:39:30Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|2|1|2022-05-26T02:37:04Z|
 |[QIN2DIM/qin2dim.github.io](https://github.com/QIN2DIM/qin2dim.github.io)|2|0|2022-05-25T09:51:40Z|
 |[QIN2DIM/img_pool](https://github.com/QIN2DIM/img_pool)|4|1|2022-05-22T23:44:35Z|
 |[QIN2DIM/PigAI_GPT2](https://github.com/QIN2DIM/PigAI_GPT2)|29|6|2022-05-21T13:04:17Z|
-|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|291|181|2022-05-21T01:23:12Z|
+|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|291|182|2022-05-21T01:23:12Z|
 |[QIN2DIM/gitee-deleter](https://github.com/QIN2DIM/gitee-deleter)|11|0|2022-05-18T13:36:22Z|
 |[QIN2DIM/Estella](https://github.com/QIN2DIM/Estella)|2|0|2022-05-14T18:00:27Z|
 |[QIN2DIM/AI_Paper_Explorer](https://github.com/QIN2DIM/AI_Paper_Explorer)|1|0|2022-05-09T08:52:26Z|
