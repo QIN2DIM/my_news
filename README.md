@@ -4,10 +4,10 @@
 
 ## Statistics
 
-> Automated deployment @ 2022-05-31 04:39:23 Asia/Shanghai
+> Automated deployment @ 2022-05-31 10:34:35 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 1604
+- **Total_stars_earned**: 1613
 
 - **Projects**: 63
 
@@ -17,29 +17,29 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|2|1|2022-05-30T16:57:11Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|3|1|2022-05-30T20:39:24Z|
 |[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|175|54|2022-05-28T12:45:02Z|
-|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|307|188|2022-05-28T01:06:32Z|
-|[QIN2DIM/QIN2DIM](https://github.com/QIN2DIM/QIN2DIM)|2|1|2022-05-26T16:31:15Z|
+|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|308|187|2022-05-28T01:06:32Z|
+|[QIN2DIM/QIN2DIM](https://github.com/QIN2DIM/QIN2DIM)|3|1|2022-05-26T16:31:15Z|
 |[QIN2DIM/qin2dim.github.io](https://github.com/QIN2DIM/qin2dim.github.io)|2|0|2022-05-25T09:51:40Z|
-|[QIN2DIM/img_pool](https://github.com/QIN2DIM/img_pool)|4|1|2022-05-22T23:44:35Z|
+|[QIN2DIM/img_pool](https://github.com/QIN2DIM/img_pool)|5|1|2022-05-22T23:44:35Z|
 |[QIN2DIM/PigAI_GPT2](https://github.com/QIN2DIM/PigAI_GPT2)|29|7|2022-05-21T13:04:17Z|
-|[QIN2DIM/gitee-deleter](https://github.com/QIN2DIM/gitee-deleter)|11|0|2022-05-18T13:36:22Z|
-|[QIN2DIM/Estella](https://github.com/QIN2DIM/Estella)|2|0|2022-05-14T18:00:27Z|
+|[QIN2DIM/gitee-deleter](https://github.com/QIN2DIM/gitee-deleter)|12|0|2022-05-18T13:36:22Z|
+|[QIN2DIM/Estella](https://github.com/QIN2DIM/Estella)|3|0|2022-05-14T18:00:27Z|
 |[QIN2DIM/AI_Paper_Explorer](https://github.com/QIN2DIM/AI_Paper_Explorer)|1|0|2022-05-09T08:52:26Z|
 |[QIN2DIM/armour-geetest](https://github.com/QIN2DIM/armour-geetest)|29|11|2022-04-27T14:24:04Z|
-|[QIN2DIM/blog-nav](https://github.com/QIN2DIM/blog-nav)|2|1|2022-04-17T06:55:21Z|
+|[QIN2DIM/blog-nav](https://github.com/QIN2DIM/blog-nav)|3|1|2022-04-17T06:55:21Z|
 |[QIN2DIM/V2RayCloudSpider](https://github.com/QIN2DIM/V2RayCloudSpider)|965|237|2022-04-15T17:54:07Z|
 |[QIN2DIM/v2rss-docs](https://github.com/QIN2DIM/v2rss-docs)|1|1|2022-04-04T11:30:35Z|
 |[QIN2DIM/recaptcha-challenger](https://github.com/QIN2DIM/recaptcha-challenger)|3|0|2022-02-24T14:16:39Z|
 |[QIN2DIM/awesome-hugo-themes](https://github.com/QIN2DIM/awesome-hugo-themes)|10|1|2022-01-22T17:57:00Z|
-|[QIN2DIM/v2board-mining](https://github.com/QIN2DIM/v2board-mining)|13|0|2021-12-24T19:14:46Z|
+|[QIN2DIM/v2board-mining](https://github.com/QIN2DIM/v2board-mining)|14|0|2021-12-24T19:14:46Z|
 |[QIN2DIM/armour-recaptcha](https://github.com/QIN2DIM/armour-recaptcha)|9|6|2021-12-24T13:06:03Z|
 |[QIN2DIM/armour-email](https://github.com/QIN2DIM/armour-email)|8|1|2021-12-24T13:05:03Z|
 |[QIN2DIM/blog-navigate](https://github.com/QIN2DIM/blog-navigate)|3|0|2021-10-31T14:18:39Z|
 |[QIN2DIM/test-demo-repo](https://github.com/QIN2DIM/test-demo-repo)|2|0|2021-10-23T19:00:33Z|
 |[QIN2DIM/test-demo-actions](https://github.com/QIN2DIM/test-demo-actions)|2|0|2021-10-23T18:59:17Z|
-|[QIN2DIM/cdn-relay](https://github.com/QIN2DIM/cdn-relay)|3|0|2021-10-17T12:25:37Z|
+|[QIN2DIM/cdn-relay](https://github.com/QIN2DIM/cdn-relay)|4|0|2021-10-17T12:25:37Z|
 |[QIN2DIM/aliyundrive-api](https://github.com/QIN2DIM/aliyundrive-api)|0|0|2021-10-04T07:55:39Z|
 |[QIN2DIM/txs](https://github.com/QIN2DIM/txs)|0|0|2021-09-30T12:42:14Z|
 |[QIN2DIM/blog-comments](https://github.com/QIN2DIM/blog-comments)|0|0|2021-09-21T10:53:28Z|
@@ -61,8 +61,8 @@
 |[QIN2DIM/playwright-python](https://github.com/QIN2DIM/playwright-python)|0|0|2022-05-13T16:28:58Z|
 |[QIN2DIM/hysteria](https://github.com/QIN2DIM/hysteria)|0|0|2022-05-12T09:22:51Z|
 |[QIN2DIM/github-readme-stats](https://github.com/QIN2DIM/github-readme-stats)|0|0|2022-05-11T16:00:40Z|
-|[QIN2DIM/you-get](https://github.com/QIN2DIM/you-get)|1|0|2022-05-11T16:00:25Z|
-|[QIN2DIM/comments-for-awesome-courses](https://github.com/QIN2DIM/comments-for-awesome-courses)|2|0|2022-05-11T15:43:10Z|
+|[QIN2DIM/you-get](https://github.com/QIN2DIM/you-get)|2|0|2022-05-11T16:00:25Z|
+|[QIN2DIM/comments-for-awesome-courses](https://github.com/QIN2DIM/comments-for-awesome-courses)|3|0|2022-05-11T15:43:10Z|
 |[QIN2DIM/hugo-theme-stack](https://github.com/QIN2DIM/hugo-theme-stack)|1|0|2022-05-11T15:41:45Z|
 |[QIN2DIM/CloudflareSpeedTest](https://github.com/QIN2DIM/CloudflareSpeedTest)|1|0|2022-05-11T15:41:10Z|
 |[QIN2DIM/coding-interview-university](https://github.com/QIN2DIM/coding-interview-university)|0|0|2022-05-11T15:36:26Z|
