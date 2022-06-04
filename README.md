@@ -4,10 +4,10 @@
 
 ## Statistics
 
-> Automated deployment @ 2022-06-04 04:36:28 Asia/Shanghai
+> Automated deployment @ 2022-06-04 10:18:54 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 1634
+- **Total_stars_earned**: 1638
 
 - **Projects**: 63
 
@@ -17,9 +17,9 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|3|1|2022-06-03T16:53:50Z|
-|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|318|191|2022-06-03T04:31:25Z|
-|[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|187|57|2022-06-03T03:59:23Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|3|1|2022-06-03T20:36:28Z|
+|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|320|192|2022-06-03T04:31:25Z|
+|[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|189|58|2022-06-03T03:59:23Z|
 |[QIN2DIM/img_pool](https://github.com/QIN2DIM/img_pool)|5|1|2022-05-31T08:07:08Z|
 |[QIN2DIM/QIN2DIM](https://github.com/QIN2DIM/QIN2DIM)|3|1|2022-05-31T04:50:32Z|
 |[QIN2DIM/qin2dim.github.io](https://github.com/QIN2DIM/qin2dim.github.io)|2|0|2022-05-25T09:51:40Z|
@@ -77,7 +77,7 @@
 |[QIN2DIM/pyinstxtractor](https://github.com/QIN2DIM/pyinstxtractor)|0|0|2022-05-11T15:27:25Z|
 |[QIN2DIM/CS-Notes](https://github.com/QIN2DIM/CS-Notes)|0|0|2022-05-11T15:26:41Z|
 |[QIN2DIM/colly](https://github.com/QIN2DIM/colly)|0|0|2022-05-11T15:24:50Z|
-|[QIN2DIM/examples-of-web-crawlers](https://github.com/QIN2DIM/examples-of-web-crawlers)|0|0|2022-05-11T15:24:30Z|
+|[QIN2DIM/examples-of-web-crawlers](https://github.com/QIN2DIM/examples-of-web-crawlers)|0|1|2022-05-11T15:24:30Z|
 |[QIN2DIM/24.](https://github.com/QIN2DIM/24.)|1|0|2022-05-11T15:17:19Z|
 |[QIN2DIM/AI-Paper-Collector](https://github.com/QIN2DIM/AI-Paper-Collector)|1|0|2022-05-09T08:16:16Z|
 |[QIN2DIM/gh-proxy](https://github.com/QIN2DIM/gh-proxy)|0|0|2022-03-04T18:41:22Z|
@@ -93,7 +93,7 @@
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
 |[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|4453|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
-|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|2198|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
+|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|2200|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
 |[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|1840|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
 |[beiyuouo/arxiv-daily](https://github.com/beiyuouo/arxiv-daily/pull/1)|41|2021-11-09T02:20:42Z|[pull/1](https://github.com/beiyuouo/arxiv-daily/pull/1)|
 |[CaiJimmy/stack-docs](https://github.com/CaiJimmy/stack-docs/pull/6)|2|2021-09-24T19:46:17Z|[pull/6](https://github.com/CaiJimmy/stack-docs/pull/6)|
