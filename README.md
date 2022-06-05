@@ -4,7 +4,7 @@
 
 ## Statistics
 
-> Automated deployment @ 2022-06-05 10:28:26 Asia/Shanghai
+> Automated deployment @ 2022-06-05 12:43:08 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 1646
@@ -17,7 +17,7 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|3|1|2022-06-04T20:35:28Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|3|1|2022-06-05T02:28:26Z|
 |[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|322|193|2022-06-03T04:31:25Z|
 |[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|192|60|2022-06-03T03:59:23Z|
 |[QIN2DIM/img_pool](https://github.com/QIN2DIM/img_pool)|5|1|2022-05-31T08:07:08Z|
@@ -77,7 +77,7 @@
 |[QIN2DIM/pyinstxtractor](https://github.com/QIN2DIM/pyinstxtractor)|0|0|2022-05-11T15:27:25Z|
 |[QIN2DIM/CS-Notes](https://github.com/QIN2DIM/CS-Notes)|0|0|2022-05-11T15:26:41Z|
 |[QIN2DIM/colly](https://github.com/QIN2DIM/colly)|0|0|2022-05-11T15:24:50Z|
-|[QIN2DIM/examples-of-web-crawlers](https://github.com/QIN2DIM/examples-of-web-crawlers)|0|1|2022-05-11T15:24:30Z|
+|[QIN2DIM/examples-of-web-crawlers](https://github.com/QIN2DIM/examples-of-web-crawlers)|1|1|2022-05-11T15:24:30Z|
 |[QIN2DIM/24.](https://github.com/QIN2DIM/24.)|1|0|2022-05-11T15:17:19Z|
 |[QIN2DIM/AI-Paper-Collector](https://github.com/QIN2DIM/AI-Paper-Collector)|1|0|2022-05-09T08:16:16Z|
 |[QIN2DIM/gh-proxy](https://github.com/QIN2DIM/gh-proxy)|0|0|2022-03-04T18:41:22Z|
@@ -92,7 +92,7 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|4455|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
+|[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|4456|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
 |[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|2204|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
 |[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|1841|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
 |[beiyuouo/arxiv-daily](https://github.com/beiyuouo/arxiv-daily/pull/1)|42|2021-11-09T02:20:42Z|[pull/1](https://github.com/beiyuouo/arxiv-daily/pull/1)|
