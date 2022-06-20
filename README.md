@@ -4,10 +4,10 @@
 
 ## Statistics
 
-> Automated deployment @ 2022-06-20 04:36:58 Asia/Shanghai
+> Automated deployment @ 2022-06-20 10:29:53 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 1699
+- **Total_stars_earned**: 1700
 
 - **Projects**: 64
 
@@ -17,7 +17,7 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|3|1|2022-06-19T16:49:19Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|3|1|2022-06-19T20:36:58Z|
 |[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|214|67|2022-06-16T12:46:06Z|
 |[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|350|201|2022-06-15T17:25:24Z|
 |[QIN2DIM/blog-nav](https://github.com/QIN2DIM/blog-nav)|3|1|2022-06-09T09:24:01Z|
@@ -29,7 +29,7 @@
 |[QIN2DIM/Estella](https://github.com/QIN2DIM/Estella)|3|0|2022-05-14T18:00:27Z|
 |[QIN2DIM/AI_Paper_Explorer](https://github.com/QIN2DIM/AI_Paper_Explorer)|1|0|2022-05-09T08:52:26Z|
 |[QIN2DIM/armour-geetest](https://github.com/QIN2DIM/armour-geetest)|29|11|2022-04-27T14:24:04Z|
-|[QIN2DIM/V2RayCloudSpider](https://github.com/QIN2DIM/V2RayCloudSpider)|965|234|2022-04-15T17:54:07Z|
+|[QIN2DIM/V2RayCloudSpider](https://github.com/QIN2DIM/V2RayCloudSpider)|966|234|2022-04-15T17:54:07Z|
 |[QIN2DIM/v2rss-docs](https://github.com/QIN2DIM/v2rss-docs)|1|1|2022-04-04T11:30:35Z|
 |[QIN2DIM/recaptcha-challenger](https://github.com/QIN2DIM/recaptcha-challenger)|4|0|2022-02-24T14:16:39Z|
 |[QIN2DIM/awesome-hugo-themes](https://github.com/QIN2DIM/awesome-hugo-themes)|11|1|2022-01-22T17:57:00Z|
@@ -56,7 +56,7 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/pyinstrument](https://github.com/QIN2DIM/pyinstrument)|0|0|2022-06-13T01:38:24Z|
+|[QIN2DIM/pyinstrument](https://github.com/QIN2DIM/pyinstrument)|0|0|2022-06-20T01:39:40Z|
 |[QIN2DIM/hcaptcha-model-factory](https://github.com/QIN2DIM/hcaptcha-model-factory)|0|0|2022-06-09T02:50:33Z|
 |[QIN2DIM/checkinpanel](https://github.com/QIN2DIM/checkinpanel)|0|0|2022-05-24T12:04:28Z|
 |[QIN2DIM/playwright-python](https://github.com/QIN2DIM/playwright-python)|0|0|2022-05-13T16:28:58Z|
