@@ -4,20 +4,20 @@
 
 ## Statistics
 
-> Automated deployment @ 2022-06-23 12:59:28 Asia/Shanghai
+> Automated deployment @ 2022-06-23 16:45:55 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 1702
+- **Total_stars_earned**: 1728
 
-- **Projects**: 64
+- **Projects**: 65
 
 ### Sources
 
-- **count**: 33
+- **count**: 34
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|3|1|2022-06-23T02:38:34Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|3|1|2022-06-23T04:59:28Z|
 |[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|352|202|2022-06-22T14:36:35Z|
 |[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|216|67|2022-06-20T16:40:23Z|
 |[QIN2DIM/blog-nav](https://github.com/QIN2DIM/blog-nav)|3|1|2022-06-09T09:24:01Z|
@@ -49,6 +49,7 @@
 |[QIN2DIM/hnu-temp-report-bot](https://github.com/QIN2DIM/hnu-temp-report-bot)|1|0|2021-07-14T04:54:02Z|
 |[QIN2DIM/TitanSystem-OSINT](https://github.com/QIN2DIM/TitanSystem-OSINT)|2|1|2021-07-11T09:26:10Z|
 |[QIN2DIM/Yogomove](https://github.com/QIN2DIM/Yogomove)|0|0|2021-06-14T19:01:19Z|
+|[QIN2DIM/4C-ExcellentProject](https://github.com/QIN2DIM/4C-ExcellentProject)|26|8|2021-02-06T16:16:14Z|
 |[QIN2DIM/pigAI](https://github.com/QIN2DIM/pigAI)|7|1|2020-05-22T00:36:57Z|
 ### Forks
 
@@ -94,7 +95,7 @@
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
 |[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|4511|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
-|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|2260|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
+|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|2261|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
 |[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|1875|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
 |[beiyuouo/arxiv-daily](https://github.com/beiyuouo/arxiv-daily/pull/1)|43|2021-11-09T02:20:42Z|[pull/1](https://github.com/beiyuouo/arxiv-daily/pull/1)|
 |[CaiJimmy/stack-docs](https://github.com/CaiJimmy/stack-docs/pull/6)|2|2021-09-24T19:46:17Z|[pull/6](https://github.com/CaiJimmy/stack-docs/pull/6)|
