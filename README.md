@@ -4,7 +4,7 @@
 
 ## Statistics
 
-> Automated deployment @ 2022-06-24 21:10:42 Asia/Shanghai
+> Automated deployment @ 2022-06-25 00:56:07 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 1938
@@ -17,7 +17,7 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|3|1|2022-06-24T08:44:46Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|3|1|2022-06-24T13:10:43Z|
 |[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|357|203|2022-06-23T16:16:08Z|
 |[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|218|68|2022-06-20T16:40:23Z|
 |[QIN2DIM/sspanel-mining](https://github.com/QIN2DIM/sspanel-mining)|188|68|2022-06-09T13:09:54Z|
@@ -60,7 +60,7 @@
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
 |[QIN2DIM/pyinstrument](https://github.com/QIN2DIM/pyinstrument)|0|0|2022-06-20T01:39:40Z|
-|[QIN2DIM/hcaptcha-model-factory](https://github.com/QIN2DIM/hcaptcha-model-factory)|0|0|2022-06-09T02:50:33Z|
+|[QIN2DIM/hcaptcha-model-factory](https://github.com/QIN2DIM/hcaptcha-model-factory)|0|1|2022-06-09T02:50:33Z|
 |[QIN2DIM/checkinpanel](https://github.com/QIN2DIM/checkinpanel)|0|0|2022-05-24T12:04:28Z|
 |[QIN2DIM/playwright-python](https://github.com/QIN2DIM/playwright-python)|0|0|2022-05-13T16:28:58Z|
 |[QIN2DIM/hysteria](https://github.com/QIN2DIM/hysteria)|0|0|2022-05-12T09:22:51Z|
