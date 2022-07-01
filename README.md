@@ -4,10 +4,10 @@
 
 ## Statistics
 
-> Automated deployment @ 2022-07-01 04:38:59 Asia/Shanghai
+> Automated deployment @ 2022-07-01 11:01:01 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 1967
+- **Total_stars_earned**: 1969
 
 - **Projects**: 69
 
@@ -17,9 +17,9 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|1|2022-06-30T17:00:40Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|1|2022-06-30T20:39:00Z|
 |[QIN2DIM/qin2dim.github.io](https://github.com/QIN2DIM/qin2dim.github.io)|3|0|2022-06-29T17:59:55Z|
-|[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|228|72|2022-06-28T05:37:41Z|
+|[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|230|73|2022-06-28T05:37:41Z|
 |[QIN2DIM/issue-test](https://github.com/QIN2DIM/issue-test)|0|0|2022-06-25T15:40:20Z|
 |[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|369|207|2022-06-23T16:16:08Z|
 |[QIN2DIM/sspanel-mining](https://github.com/QIN2DIM/sspanel-mining)|189|70|2022-06-09T13:09:54Z|
@@ -99,7 +99,7 @@
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
 |[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|4527|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
-|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|2287|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
+|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|2289|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
 |[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|1883|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
 |[beiyuouo/arxiv-daily](https://github.com/beiyuouo/arxiv-daily/pull/1)|43|2021-11-09T02:20:42Z|[pull/1](https://github.com/beiyuouo/arxiv-daily/pull/1)|
 |[CaiJimmy/stack-docs](https://github.com/CaiJimmy/stack-docs/pull/6)|2|2021-09-24T19:46:17Z|[pull/6](https://github.com/CaiJimmy/stack-docs/pull/6)|
