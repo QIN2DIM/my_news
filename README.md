@@ -4,7 +4,7 @@
 
 ## Statistics
 
-> Automated deployment @ 2022-07-02 04:39:12 Asia/Shanghai
+> Automated deployment @ 2022-07-02 10:41:26 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 1972
@@ -17,7 +17,7 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|1|2022-07-01T16:59:36Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|1|2022-07-01T20:39:13Z|
 |[QIN2DIM/qin2dim.github.io](https://github.com/QIN2DIM/qin2dim.github.io)|3|0|2022-06-29T17:59:55Z|
 |[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|232|72|2022-06-28T05:37:41Z|
 |[QIN2DIM/issue-test](https://github.com/QIN2DIM/issue-test)|0|0|2022-06-25T15:40:20Z|
@@ -99,8 +99,8 @@
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
 |[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|4530|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
-|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|2289|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
-|[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|1883|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
+|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|2290|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
+|[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|1884|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
 |[beiyuouo/arxiv-daily](https://github.com/beiyuouo/arxiv-daily/pull/1)|43|2021-11-09T02:20:42Z|[pull/1](https://github.com/beiyuouo/arxiv-daily/pull/1)|
 |[CaiJimmy/stack-docs](https://github.com/CaiJimmy/stack-docs/pull/6)|2|2021-09-24T19:46:17Z|[pull/6](https://github.com/CaiJimmy/stack-docs/pull/6)|
 |[KQDtianxiaK/24.](https://github.com/KQDtianxiaK/24./pull/2)|1|2022-02-04T17:13:30Z|[pull/2](https://github.com/KQDtianxiaK/24./pull/2)|
