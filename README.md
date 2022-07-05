@@ -4,7 +4,7 @@
 
 ## Statistics
 
-> Automated deployment @ 2022-07-05 16:42:05 Asia/Shanghai
+> Automated deployment @ 2022-07-05 21:11:36 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 1983
@@ -17,8 +17,8 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|1|2022-07-05T04:57:06Z|
-|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|373|210|2022-07-04T17:46:53Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|1|2022-07-05T08:42:06Z|
+|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|373|212|2022-07-04T17:46:53Z|
 |[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|239|72|2022-07-04T10:13:22Z|
 |[QIN2DIM/blog-nav](https://github.com/QIN2DIM/blog-nav)|4|1|2022-07-02T08:52:49Z|
 |[QIN2DIM/qin2dim.github.io](https://github.com/QIN2DIM/qin2dim.github.io)|3|0|2022-06-29T17:59:55Z|
@@ -30,7 +30,7 @@
 |[QIN2DIM/gitee-deleter](https://github.com/QIN2DIM/gitee-deleter)|12|0|2022-05-18T13:36:22Z|
 |[QIN2DIM/Estella](https://github.com/QIN2DIM/Estella)|3|0|2022-05-14T18:00:27Z|
 |[QIN2DIM/AI_Paper_Explorer](https://github.com/QIN2DIM/AI_Paper_Explorer)|1|0|2022-05-09T08:52:26Z|
-|[QIN2DIM/armour-geetest](https://github.com/QIN2DIM/armour-geetest)|29|11|2022-04-27T14:24:04Z|
+|[QIN2DIM/armour-geetest](https://github.com/QIN2DIM/armour-geetest)|29|12|2022-04-27T14:24:04Z|
 |[QIN2DIM/V2RayCloudSpider](https://github.com/QIN2DIM/V2RayCloudSpider)|971|233|2022-04-15T17:54:07Z|
 |[QIN2DIM/v2rss-docs](https://github.com/QIN2DIM/v2rss-docs)|1|1|2022-04-04T11:30:35Z|
 |[QIN2DIM/recaptcha-challenger](https://github.com/QIN2DIM/recaptcha-challenger)|4|0|2022-02-24T14:16:39Z|
@@ -74,7 +74,7 @@
 |[QIN2DIM/coding-interview-university](https://github.com/QIN2DIM/coding-interview-university)|0|0|2022-05-11T15:36:26Z|
 |[QIN2DIM/HarvestText](https://github.com/QIN2DIM/HarvestText)|3|0|2022-05-11T15:35:01Z|
 |[QIN2DIM/cnsenti](https://github.com/QIN2DIM/cnsenti)|2|0|2022-05-11T15:34:51Z|
-|[QIN2DIM/one-python-craftsman](https://github.com/QIN2DIM/one-python-craftsman)|0|0|2022-05-11T15:33:54Z|
+|[QIN2DIM/one-python-craftsman](https://github.com/QIN2DIM/one-python-craftsman)|1|0|2022-05-11T15:33:54Z|
 |[QIN2DIM/TeachYourselfCS-CN](https://github.com/QIN2DIM/TeachYourselfCS-CN)|1|0|2022-05-11T15:33:43Z|
 |[QIN2DIM/system-design-primer](https://github.com/QIN2DIM/system-design-primer)|0|0|2022-05-11T15:32:43Z|
 |[QIN2DIM/build-web-application-with-golang](https://github.com/QIN2DIM/build-web-application-with-golang)|0|0|2022-05-11T15:30:07Z|
@@ -98,9 +98,9 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|4537|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
-|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|2299|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
+|[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|4539|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
+|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|2301|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
 |[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|1887|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
 |[beiyuouo/arxiv-daily](https://github.com/beiyuouo/arxiv-daily/pull/1)|45|2021-11-09T02:20:42Z|[pull/1](https://github.com/beiyuouo/arxiv-daily/pull/1)|
-|[CaiJimmy/stack-docs](https://github.com/CaiJimmy/stack-docs/pull/6)|2|2021-09-24T19:46:17Z|[pull/6](https://github.com/CaiJimmy/stack-docs/pull/6)|
+|[CaiJimmy/stack-docs](https://github.com/CaiJimmy/stack-docs/pull/6)|3|2021-09-24T19:46:17Z|[pull/6](https://github.com/CaiJimmy/stack-docs/pull/6)|
 |[KQDtianxiaK/24.](https://github.com/KQDtianxiaK/24./pull/2)|1|2022-02-04T17:13:30Z|[pull/2](https://github.com/KQDtianxiaK/24./pull/2)|
