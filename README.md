@@ -4,10 +4,10 @@
 
 ## Statistics
 
-> Automated deployment @ 2022-07-15 16:43:43 Asia/Shanghai
+> Automated deployment @ 2022-07-15 21:14:46 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 2001
+- **Total_stars_earned**: 2000
 
 - **Projects**: 69
 
@@ -17,8 +17,8 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|1|2022-07-15T05:23:27Z|
-|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|382|214|2022-07-14T16:46:02Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|1|2022-07-15T08:43:43Z|
+|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|381|214|2022-07-14T16:46:02Z|
 |[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|248|74|2022-07-14T16:35:53Z|
 |[QIN2DIM/blog-nav](https://github.com/QIN2DIM/blog-nav)|4|1|2022-07-11T18:35:30Z|
 |[QIN2DIM/qin2dim.github.io](https://github.com/QIN2DIM/qin2dim.github.io)|3|0|2022-06-29T17:59:55Z|
@@ -98,7 +98,7 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|4561|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
+|[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|4562|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
 |[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|2325|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
 |[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|1899|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
 |[beiyuouo/arxiv-daily](https://github.com/beiyuouo/arxiv-daily/pull/1)|46|2021-11-09T02:20:42Z|[pull/1](https://github.com/beiyuouo/arxiv-daily/pull/1)|
