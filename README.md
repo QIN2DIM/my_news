@@ -4,10 +4,10 @@
 
 ## Statistics
 
-> Automated deployment @ 2022-07-21 13:06:16 Asia/Shanghai
+> Automated deployment @ 2022-07-21 16:43:02 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 2014
+- **Total_stars_earned**: 2015
 
 - **Projects**: 71
 
@@ -17,8 +17,8 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|258|77|2022-07-21T05:05:24Z|
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|1|2022-07-21T02:52:47Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|1|2022-07-21T05:06:17Z|
+|[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|259|77|2022-07-21T05:05:24Z|
 |[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|387|219|2022-07-14T16:46:02Z|
 |[QIN2DIM/blog-nav](https://github.com/QIN2DIM/blog-nav)|4|1|2022-07-11T18:35:30Z|
 |[QIN2DIM/qin2dim.github.io](https://github.com/QIN2DIM/qin2dim.github.io)|3|0|2022-06-29T17:59:55Z|
@@ -103,7 +103,7 @@
 |[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|4570|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
 |[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|2340|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
 |[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|1908|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
-|[DataCanvasIO/YLearn](https://github.com/DataCanvasIO/YLearn/pull/26)|105|2022-07-18T02:56:59Z|[pull/26](https://github.com/DataCanvasIO/YLearn/pull/26)|
+|[DataCanvasIO/YLearn](https://github.com/DataCanvasIO/YLearn/pull/26)|106|2022-07-18T02:56:59Z|[pull/26](https://github.com/DataCanvasIO/YLearn/pull/26)|
 |[beiyuouo/arxiv-daily](https://github.com/beiyuouo/arxiv-daily/pull/1)|46|2021-11-09T02:20:42Z|[pull/1](https://github.com/beiyuouo/arxiv-daily/pull/1)|
 |[CaiJimmy/stack-docs](https://github.com/CaiJimmy/stack-docs/pull/6)|3|2021-09-24T19:46:17Z|[pull/6](https://github.com/CaiJimmy/stack-docs/pull/6)|
 |[KQDtianxiaK/24.](https://github.com/KQDtianxiaK/24./pull/2)|1|2022-02-04T17:13:30Z|[pull/2](https://github.com/KQDtianxiaK/24./pull/2)|
