@@ -4,7 +4,7 @@
 
 ## Statistics
 
-> Automated deployment @ 2022-07-22 10:53:21 Asia/Shanghai
+> Automated deployment @ 2022-07-22 13:04:02 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 2017
@@ -17,9 +17,9 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|1|2022-07-21T20:39:58Z|
+|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|388|220|2022-07-22T04:55:20Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|1|2022-07-22T02:53:21Z|
 |[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|260|77|2022-07-21T18:30:33Z|
-|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|388|219|2022-07-14T16:46:02Z|
 |[QIN2DIM/blog-nav](https://github.com/QIN2DIM/blog-nav)|4|1|2022-07-11T18:35:30Z|
 |[QIN2DIM/qin2dim.github.io](https://github.com/QIN2DIM/qin2dim.github.io)|3|0|2022-06-29T17:59:55Z|
 |[QIN2DIM/issue-test](https://github.com/QIN2DIM/issue-test)|0|0|2022-06-25T15:40:20Z|
