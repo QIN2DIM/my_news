@@ -12,6 +12,7 @@
 ('repos_url', 'https://api.github.com/users/QIN2DIM/repos')
 ('events_url', 'https://api.github.com/users/QIN2DIM/events{/privacy}')
 ('received_events_url', 'https://api.github.com/users/QIN2DIM/received_events')
+('issues_url', 'https://api.github.com/search/issues?q=type:pr+is:merged+author:QIN2DIM&per_page=100')
 """
 # -*- coding: utf-8 -*-
 # Time       : 2022/5/11 18:48
@@ -25,15 +26,14 @@ from typing import Union, Optional, List
 import requests
 
 GITHUB_ACTOR = os.getenv("GITHUB_ACTOR", "QIN2DIM")
-API_ROOT = "https://api.github.com"
 
+PATH_SUMMARY_OUTPUT = "README.md"
+
+API_ROOT = "https://api.github.com"
 USER_ROOT = f"{API_ROOT}/users/{GITHUB_ACTOR}"
 REPO_URLS = f"{USER_ROOT}/repos"
 EVENT_URLS = f"{USER_ROOT}/events"
-
-GITHUB_STEP_SUMMARY = "GITHUB_STEP_SUMMARY"
-
-PATH_SUMMARY_OUTPUT = "README.md"
+ISSUE_URLS = f"{API_ROOT}/search/issues"
 
 
 class GitUserStatus:
@@ -93,56 +93,57 @@ class GitUserStatus:
                 if patch_statistics and not repo["fork"]:
                     self.total_stars_earned += repo["stargazers_count"]
 
-    def get_user_events(self):
-        """
-            - PushEvent
-            - WatchEvent
-            - CreateEvent
-            - ReleaseEvent
-            - IssueCommentEvent
-            - PullRequestEvent
-            - IssuesEvent
-            - GollumEvent
-            - ForkEvent
-        :return:
-        """
+    def get_contributed_repos(self):
         skip_repo = []
         content = []
         repo2stars = {}
+
         for _, page in enumerate(range(1, 10)):
-            url = f"{EVENT_URLS}?page={page}&&per_page=100"
+            url = f"{ISSUE_URLS}?q=type:pr+is:merged+author:{GITHUB_ACTOR}&page={page}&per_page=100"
             events = requests.get(url).json()
-            if isinstance(events, dict):
+
+            # Ending Unexpected Retrieval Tasks.
+            if not events.get("items"):
                 break
-            content.append(events)
+            content.extend(events["items"])
 
-        for events in reversed(content):
-            for event in reversed(events):
-                repo_name = event["repo"]["name"]
-                repo_api = event["repo"]["url"]
-                if event["type"] not in ["PullRequestEvent"] or repo_name in skip_repo:
-                    continue
-                if not repo2stars.get(repo_name):
-                    data = requests.get(repo_api).json()
-                    try:
-                        repo2stars[repo_name] = data["stargazers_count"]
-                    except KeyError:
-                        message = data.get("message", "")
-                        if "Not Found" in message:
-                            skip_repo.append(repo_name)
-                            continue
-                        elif "limited" in message:
-                            break
+        for event in reversed(content):
+            repo_owner = event["repository_url"].split("/")[-2]
+            repo_name = f'{repo_owner}/{event["repository_url"].split("/")[-1]}'
+            repo_api = event["repository_url"]
 
-                updated_at = event["payload"]["pull_request"]["updated_at"]
-                stick_url = f"https://github.com/{repo_name}"
-                stick_alias = f"pull/{event['payload']['number']}"
-                self.contributed_repo_objs[repo_name] = {
-                    "stars": repo2stars[repo_name],
-                    "updated_at": updated_at,
-                    "stick": f"[{stick_alias}]({stick_url})",
-                }
-                self.repo2hyperlink[repo_name] = stick_url
+            # Strategy: Skip task. Filtering your own project.
+            if repo_owner.lower() == GITHUB_ACTOR.lower():
+                continue
+            # Strategy: Skip task. API response is outdated, skip task.
+            if repo_name in skip_repo:
+                continue
+            # Strategy: Skip task. Filtering duplicate request tasks.
+            if repo2stars.get(repo_name):
+                continue
+
+            data = requests.get(repo_api).json()
+            message = data.get("message", "")
+
+            # Strategy: Skip task. API response is outdated, skip task.
+            if "Not Found" in message:
+                skip_repo.append(repo_name)
+                continue
+            # Strategy: Mission compete. IP address has been flagged.
+            elif "limited" in message:
+                break
+
+            # Get statistics on contributed repository objects.
+            repo2stars[repo_name] = data["stargazers_count"]
+            updated_at = event["updated_at"]
+            stick_url = event["html_url"]
+            stick_alias = f"pull/{event['number']}"
+            self.contributed_repo_objs[repo_name] = {
+                "stars": repo2stars[repo_name],
+                "updated_at": updated_at,
+                "stick": f"[{stick_alias}]({stick_url})",
+            }
+            self.repo2hyperlink[repo_name] = stick_url
 
 
 class MarkdownTemplater:
@@ -220,16 +221,17 @@ def cache_summary(summary):
         file.write(summary)
 
 
-def roll_user_data():
+def register_user_data():
+    """Get the corresponding user statistics."""
     gus = GitUserStatus()
     gus.get_repos_info()
-    gus.get_user_events()
+    gus.get_contributed_repos()
 
     return gus
 
 
 def arrange_summary():
-    gus = roll_user_data()
+    gus = register_user_data()
     mt = MarkdownTemplater()
 
     # SayHi

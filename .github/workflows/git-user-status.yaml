@@ -2,7 +2,7 @@ name: markdownActions
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
     paths-ignore:
       - ".github/**"
       - "README.md"
@@ -10,7 +10,7 @@ on:
       - ".gitignore"
   workflow_dispatch:
   schedule:
-    - cron: '25 0 * * *'
+    - cron: "25 */4 * * *"
 
 jobs:
   build:
