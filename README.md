@@ -4,10 +4,10 @@
 
 ## Statistics
 
-> Automated deployment @ 2022-12-26 00:40:51 Asia/Shanghai
+> Automated deployment @ 2022-12-26 09:52:41 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 2606
+- **Total_stars_earned**: 2610
 
 - **Projects**: 99
 
@@ -17,9 +17,9 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|581|167|2022-12-25T14:28:47Z|
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|45|2022-12-25T08:34:48Z|
-|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|550|290|2022-12-19T12:51:08Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|45|2022-12-25T16:40:52Z|
+|[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|581|168|2022-12-25T14:28:47Z|
+|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|554|290|2022-12-19T12:51:08Z|
 |[QIN2DIM/qin2dim.github.io](https://github.com/QIN2DIM/qin2dim.github.io)|5|0|2022-12-13T13:23:22Z|
 |[QIN2DIM/blog-nav](https://github.com/QIN2DIM/blog-nav)|5|20|2022-12-13T02:05:12Z|
 |[QIN2DIM/hcaptcha-challenger-mirror](https://github.com/QIN2DIM/hcaptcha-challenger-mirror)|16|4|2022-11-23T05:38:52Z|
@@ -73,7 +73,7 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/pyinstrument](https://github.com/QIN2DIM/pyinstrument)|1|18|2022-12-19T01:42:50Z|
+|[QIN2DIM/pyinstrument](https://github.com/QIN2DIM/pyinstrument)|1|18|2022-12-26T01:42:17Z|
 |[QIN2DIM/free-games-claimer](https://github.com/QIN2DIM/free-games-claimer)|0|19|2022-12-17T14:01:16Z|
 |[QIN2DIM/sing-box](https://github.com/QIN2DIM/sing-box)|0|16|2022-11-18T02:58:39Z|
 |[QIN2DIM/hysteria](https://github.com/QIN2DIM/hysteria)|3|0|2022-11-15T14:36:04Z|
