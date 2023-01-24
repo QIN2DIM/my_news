@@ -4,10 +4,10 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-01-24 09:55:37 Asia/Shanghai
+> Automated deployment @ 2023-01-24 12:36:47 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 2697
+- **Total_stars_earned**: 2698
 
 - **Projects**: 102
 
@@ -17,10 +17,10 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|5|45|2023-01-23T20:33:26Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|5|45|2023-01-24T01:55:37Z|
 |[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|606|176|2023-01-20T01:03:21Z|
 |[QIN2DIM/blog-nav](https://github.com/QIN2DIM/blog-nav)|5|20|2023-01-15T23:38:28Z|
-|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|596|302|2023-01-13T12:18:20Z|
+|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|597|302|2023-01-13T12:18:20Z|
 |[QIN2DIM/QIN2DIM](https://github.com/QIN2DIM/QIN2DIM)|3|2|2023-01-13T05:01:13Z|
 |[QIN2DIM/qin2dim.github.io](https://github.com/QIN2DIM/qin2dim.github.io)|5|0|2023-01-09T23:39:44Z|
 |[QIN2DIM/lip-sync-battle](https://github.com/QIN2DIM/lip-sync-battle)|1|0|2023-01-07T22:32:02Z|
@@ -132,9 +132,9 @@
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
 |[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|5050|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
-|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|2957|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
+|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|2958|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
 |[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|2173|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
-|[emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria/pull/125)|1567|2022-08-29T04:44:45Z|[pull/125](https://github.com/emptysuns/Hi_Hysteria/pull/125)|
+|[emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria/pull/125)|1568|2022-08-29T04:44:45Z|[pull/125](https://github.com/emptysuns/Hi_Hysteria/pull/125)|
 |[DataCanvasIO/YLearn](https://github.com/DataCanvasIO/YLearn/pull/26)|268|2022-07-18T02:56:59Z|[pull/26](https://github.com/DataCanvasIO/YLearn/pull/26)|
 |[beiyuouo/arxiv-daily](https://github.com/beiyuouo/arxiv-daily/pull/1)|58|2021-11-09T02:20:42Z|[pull/1](https://github.com/beiyuouo/arxiv-daily/pull/1)|
 |[captcha-challenger/hcaptcha-model-factory](https://github.com/captcha-challenger/hcaptcha-model-factory/pull/14)|38|2022-09-04T06:01:04Z|[pull/14](https://github.com/captcha-challenger/hcaptcha-model-factory/pull/14)|
