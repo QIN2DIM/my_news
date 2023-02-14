@@ -4,10 +4,10 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-02-15 00:45:25 Asia/Shanghai
+> Automated deployment @ 2023-02-15 04:33:51 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 2748
+- **Total_stars_earned**: 2747
 
 - **Projects**: 102
 
@@ -17,7 +17,7 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|45|2023-02-14T08:39:28Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|45|2023-02-14T16:45:26Z|
 |[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|632|182|2023-02-11T05:50:44Z|
 |[QIN2DIM/qin2dim.github.io](https://github.com/QIN2DIM/qin2dim.github.io)|5|0|2023-02-02T03:11:27Z|
 |[QIN2DIM/img_pool](https://github.com/QIN2DIM/img_pool)|7|1|2023-02-02T03:00:33Z|
@@ -57,7 +57,7 @@
 |[QIN2DIM/blog-navigate](https://github.com/QIN2DIM/blog-navigate)|3|0|2021-10-31T14:18:39Z|
 |[QIN2DIM/test-demo-repo](https://github.com/QIN2DIM/test-demo-repo)|2|0|2021-10-23T19:00:33Z|
 |[QIN2DIM/test-demo-actions](https://github.com/QIN2DIM/test-demo-actions)|2|0|2021-10-23T18:59:17Z|
-|[QIN2DIM/cdn-relay](https://github.com/QIN2DIM/cdn-relay)|4|0|2021-10-17T12:25:37Z|
+|[QIN2DIM/cdn-relay](https://github.com/QIN2DIM/cdn-relay)|3|0|2021-10-17T12:25:37Z|
 |[QIN2DIM/aliyundrive-api](https://github.com/QIN2DIM/aliyundrive-api)|0|0|2021-10-04T07:55:39Z|
 |[QIN2DIM/txs](https://github.com/QIN2DIM/txs)|0|0|2021-09-30T12:42:14Z|
 |[QIN2DIM/blog-comments](https://github.com/QIN2DIM/blog-comments)|0|0|2021-09-21T10:53:28Z|
@@ -131,9 +131,9 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|5098|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
+|[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|5099|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
 |[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|3011|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
-|[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|2203|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
+|[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|2204|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
 |[emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria/pull/125)|1637|2022-08-29T04:44:45Z|[pull/125](https://github.com/emptysuns/Hi_Hysteria/pull/125)|
 |[DataCanvasIO/YLearn](https://github.com/DataCanvasIO/YLearn/pull/26)|279|2022-07-18T02:56:59Z|[pull/26](https://github.com/DataCanvasIO/YLearn/pull/26)|
 |[beiyuouo/arxiv-daily](https://github.com/beiyuouo/arxiv-daily/pull/1)|59|2021-11-09T02:20:42Z|[pull/1](https://github.com/beiyuouo/arxiv-daily/pull/1)|
