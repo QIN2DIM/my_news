@@ -4,10 +4,10 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-02-22 00:43:31 Asia/Shanghai
+> Automated deployment @ 2023-02-22 04:34:30 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 2782
+- **Total_stars_earned**: 2783
 
 - **Projects**: 103
 
@@ -17,9 +17,9 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|44|2023-02-21T16:43:32Z|
 |[QIN2DIM/QIN2DIM](https://github.com/QIN2DIM/QIN2DIM)|3|2|2023-02-21T15:13:02Z|
-|[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|648|184|2023-02-21T13:14:47Z|
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|44|2023-02-21T12:55:29Z|
+|[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|649|184|2023-02-21T13:14:47Z|
 |[QIN2DIM/istockphoto-go](https://github.com/QIN2DIM/istockphoto-go)|2|0|2023-02-17T13:39:36Z|
 |[QIN2DIM/istockphoto](https://github.com/QIN2DIM/istockphoto)|4|0|2023-02-17T13:11:59Z|
 |[QIN2DIM/qin2dim.github.io](https://github.com/QIN2DIM/qin2dim.github.io)|5|0|2023-02-02T03:11:27Z|
