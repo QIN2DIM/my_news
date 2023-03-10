@@ -4,7 +4,7 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-03-10 20:56:31 Asia/Shanghai
+> Automated deployment @ 2023-03-11 00:44:57 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 2832
@@ -17,10 +17,10 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|44|2023-03-10T08:39:33Z|
+|[QIN2DIM/qin2dim.github.io](https://github.com/QIN2DIM/qin2dim.github.io)|5|0|2023-03-10T15:06:15Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|44|2023-03-10T12:56:32Z|
 |[QIN2DIM/blog-nav](https://github.com/QIN2DIM/blog-nav)|7|20|2023-03-10T08:10:04Z|
 |[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|673|191|2023-03-09T15:44:03Z|
-|[QIN2DIM/qin2dim.github.io](https://github.com/QIN2DIM/qin2dim.github.io)|5|0|2023-03-03T04:05:26Z|
 |[QIN2DIM/chatgpt-turbo-v](https://github.com/QIN2DIM/chatgpt-turbo-v)|0|0|2023-03-02T09:13:27Z|
 |[QIN2DIM/4C-ExcellentProject](https://github.com/QIN2DIM/4C-ExcellentProject)|29|8|2023-03-02T00:10:02Z|
 |[QIN2DIM/QIN2DIM](https://github.com/QIN2DIM/QIN2DIM)|3|2|2023-02-22T04:51:08Z|
@@ -133,11 +133,11 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|7494|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
-|[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|5158|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
+|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|7496|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
+|[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|5157|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
 |[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|3090|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
-|[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|2234|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
-|[emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria/pull/125)|1720|2022-08-29T04:44:45Z|[pull/125](https://github.com/emptysuns/Hi_Hysteria/pull/125)|
+|[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|2235|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
+|[emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria/pull/125)|1721|2022-08-29T04:44:45Z|[pull/125](https://github.com/emptysuns/Hi_Hysteria/pull/125)|
 |[DataCanvasIO/YLearn](https://github.com/DataCanvasIO/YLearn/pull/26)|283|2022-07-18T02:56:59Z|[pull/26](https://github.com/DataCanvasIO/YLearn/pull/26)|
 |[beiyuouo/arxiv-daily](https://github.com/beiyuouo/arxiv-daily/pull/1)|60|2021-11-09T02:20:42Z|[pull/1](https://github.com/beiyuouo/arxiv-daily/pull/1)|
 |[captcha-challenger/hcaptcha-model-factory](https://github.com/captcha-challenger/hcaptcha-model-factory/pull/14)|43|2022-09-04T06:01:04Z|[pull/14](https://github.com/captcha-challenger/hcaptcha-model-factory/pull/14)|
