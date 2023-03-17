@@ -4,7 +4,7 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-03-18 00:42:15 Asia/Shanghai
+> Automated deployment @ 2023-03-18 04:33:17 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 2848
@@ -17,8 +17,8 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|44|2023-03-17T16:42:15Z|
 |[QIN2DIM/prism](https://github.com/QIN2DIM/prism)|0|0|2023-03-17T13:16:07Z|
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|44|2023-03-17T12:53:36Z|
 |[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|685|193|2023-03-17T03:40:30Z|
 |[QIN2DIM/blog-nav](https://github.com/QIN2DIM/blog-nav)|8|20|2023-03-15T10:00:05Z|
 |[QIN2DIM/qin2dim.github.io](https://github.com/QIN2DIM/qin2dim.github.io)|5|0|2023-03-10T15:06:15Z|
