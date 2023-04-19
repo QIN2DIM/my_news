@@ -4,10 +4,10 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-04-19 12:35:07 Asia/Shanghai
+> Automated deployment @ 2023-04-19 16:34:42 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 2932
+- **Total_stars_earned**: 2933
 
 - **Projects**: 112
 
@@ -17,7 +17,7 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|44|2023-04-19T01:47:54Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|44|2023-04-19T04:35:07Z|
 |[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|721|207|2023-04-18T15:42:06Z|
 |[QIN2DIM/prism](https://github.com/QIN2DIM/prism)|0|0|2023-03-17T13:16:07Z|
 |[QIN2DIM/blog-nav](https://github.com/QIN2DIM/blog-nav)|8|20|2023-03-15T10:00:05Z|
@@ -51,7 +51,7 @@
 |[QIN2DIM/Estella](https://github.com/QIN2DIM/Estella)|3|0|2022-05-14T18:00:27Z|
 |[QIN2DIM/AI_Paper_Explorer](https://github.com/QIN2DIM/AI_Paper_Explorer)|2|0|2022-05-09T08:52:26Z|
 |[QIN2DIM/armour-geetest](https://github.com/QIN2DIM/armour-geetest)|41|15|2022-04-27T14:24:04Z|
-|[QIN2DIM/V2RayCloudSpider](https://github.com/QIN2DIM/V2RayCloudSpider)|1014|232|2022-04-15T17:54:07Z|
+|[QIN2DIM/V2RayCloudSpider](https://github.com/QIN2DIM/V2RayCloudSpider)|1015|232|2022-04-15T17:54:07Z|
 |[QIN2DIM/v2rss-docs](https://github.com/QIN2DIM/v2rss-docs)|1|1|2022-04-04T11:30:35Z|
 |[QIN2DIM/v2board-mining](https://github.com/QIN2DIM/v2board-mining)|15|0|2021-12-24T19:14:46Z|
 |[QIN2DIM/armour-recaptcha](https://github.com/QIN2DIM/armour-recaptcha)|13|7|2021-12-24T13:06:03Z|
@@ -77,7 +77,7 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/Auto-GPT](https://github.com/QIN2DIM/Auto-GPT)|0|0|2023-04-17T14:50:27Z|
+|[QIN2DIM/Auto-GPT](https://github.com/QIN2DIM/Auto-GPT)|0|1|2023-04-17T14:50:27Z|
 |[QIN2DIM/ChuanhuChatGPT](https://github.com/QIN2DIM/ChuanhuChatGPT)|0|0|2023-04-06T13:41:38Z|
 |[QIN2DIM/langflow](https://github.com/QIN2DIM/langflow)|0|0|2023-04-04T00:36:07Z|
 |[QIN2DIM/langchain](https://github.com/QIN2DIM/langchain)|0|0|2023-04-02T19:16:21Z|
@@ -141,9 +141,9 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|7783|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
-|[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|5250|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
-|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|3195|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
+|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|7785|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
+|[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|5251|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
+|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|3196|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
 |[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|2300|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
 |[emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria/pull/125)|1903|2022-08-29T04:44:45Z|[pull/125](https://github.com/emptysuns/Hi_Hysteria/pull/125)|
 |[DataCanvasIO/YLearn](https://github.com/DataCanvasIO/YLearn/pull/26)|292|2022-07-18T02:56:59Z|[pull/26](https://github.com/DataCanvasIO/YLearn/pull/26)|
