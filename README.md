@@ -4,10 +4,10 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-05-18 12:33:07 Asia/Shanghai
+> Automated deployment @ 2023-05-18 16:33:00 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 3000
+- **Total_stars_earned**: 3001
 
 - **Projects**: 112
 
@@ -17,7 +17,7 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|44|2023-05-18T01:47:14Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|44|2023-05-18T04:33:08Z|
 |[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|759|220|2023-05-14T09:53:59Z|
 |[QIN2DIM/prism](https://github.com/QIN2DIM/prism)|0|0|2023-03-17T13:16:07Z|
 |[QIN2DIM/blog-nav](https://github.com/QIN2DIM/blog-nav)|8|21|2023-03-15T10:00:05Z|
@@ -65,7 +65,7 @@
 |[QIN2DIM/txs](https://github.com/QIN2DIM/txs)|0|0|2021-09-30T12:42:14Z|
 |[QIN2DIM/blog-comments](https://github.com/QIN2DIM/blog-comments)|0|0|2021-09-21T10:53:28Z|
 |[QIN2DIM/hello-hugo](https://github.com/QIN2DIM/hello-hugo)|0|0|2021-09-21T09:52:51Z|
-|[QIN2DIM/2D-object-detection-Bleach-vs-Naruto](https://github.com/QIN2DIM/2D-object-detection-Bleach-vs-Naruto)|3|1|2021-09-02T04:14:47Z|
+|[QIN2DIM/2D-object-detection-Bleach-vs-Naruto](https://github.com/QIN2DIM/2D-object-detection-Bleach-vs-Naruto)|4|1|2021-09-02T04:14:47Z|
 |[QIN2DIM/VulcanAsh](https://github.com/QIN2DIM/VulcanAsh)|6|0|2021-07-26T12:03:23Z|
 |[QIN2DIM/hnu-temp-report-bot](https://github.com/QIN2DIM/hnu-temp-report-bot)|1|0|2021-07-14T04:54:02Z|
 |[QIN2DIM/TitanSystem-OSINT](https://github.com/QIN2DIM/TitanSystem-OSINT)|3|1|2021-07-11T09:26:10Z|
@@ -77,7 +77,7 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/Auto-GPT](https://github.com/QIN2DIM/Auto-GPT)|1|1|2023-05-06T04:21:27Z|
+|[QIN2DIM/Auto-GPT](https://github.com/QIN2DIM/Auto-GPT)|1|1|2023-05-18T06:22:02Z|
 |[QIN2DIM/ChuanhuChatGPT](https://github.com/QIN2DIM/ChuanhuChatGPT)|0|0|2023-04-06T13:41:38Z|
 |[QIN2DIM/langflow](https://github.com/QIN2DIM/langflow)|0|0|2023-04-04T00:36:07Z|
 |[QIN2DIM/langchain](https://github.com/QIN2DIM/langchain)|0|0|2023-04-02T19:16:21Z|
@@ -141,10 +141,10 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|7990|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
-|[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|5311|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
-|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|3270|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
-|[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|2327|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
+|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|7995|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
+|[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|5312|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
+|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|3269|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
+|[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|2328|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
 |[emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria/pull/125)|1988|2022-08-29T04:44:45Z|[pull/125](https://github.com/emptysuns/Hi_Hysteria/pull/125)|
 |[DataCanvasIO/YLearn](https://github.com/DataCanvasIO/YLearn/pull/26)|301|2022-07-18T02:56:59Z|[pull/26](https://github.com/DataCanvasIO/YLearn/pull/26)|
 |[beiyuouo/arxiv-daily](https://github.com/beiyuouo/arxiv-daily/pull/1)|62|2021-11-09T02:20:42Z|[pull/1](https://github.com/beiyuouo/arxiv-daily/pull/1)|
