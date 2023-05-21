@@ -4,10 +4,10 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-05-21 09:53:17 Asia/Shanghai
+> Automated deployment @ 2023-05-21 12:33:00 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 3007
+- **Total_stars_earned**: 3008
 
 - **Projects**: 112
 
@@ -17,7 +17,7 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|44|2023-05-20T20:33:05Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|44|2023-05-21T01:53:18Z|
 |[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|761|219|2023-05-14T09:53:59Z|
 |[QIN2DIM/prism](https://github.com/QIN2DIM/prism)|0|0|2023-03-17T13:16:07Z|
 |[QIN2DIM/blog-nav](https://github.com/QIN2DIM/blog-nav)|8|21|2023-03-15T10:00:05Z|
@@ -28,7 +28,7 @@
 |[QIN2DIM/istockphoto-go](https://github.com/QIN2DIM/istockphoto-go)|3|0|2023-02-17T13:39:36Z|
 |[QIN2DIM/istockphoto](https://github.com/QIN2DIM/istockphoto)|4|0|2023-02-17T13:11:59Z|
 |[QIN2DIM/img_pool](https://github.com/QIN2DIM/img_pool)|7|1|2023-02-02T03:00:33Z|
-|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|673|312|2023-01-13T12:18:20Z|
+|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|674|312|2023-01-13T12:18:20Z|
 |[QIN2DIM/lip-sync-battle](https://github.com/QIN2DIM/lip-sync-battle)|1|0|2023-01-07T22:32:02Z|
 |[QIN2DIM/twdown-api](https://github.com/QIN2DIM/twdown-api)|1|0|2023-01-05T04:17:12Z|
 |[QIN2DIM/hcaptcha-challenger-mirror](https://github.com/QIN2DIM/hcaptcha-challenger-mirror)|15|4|2022-11-23T05:38:52Z|
