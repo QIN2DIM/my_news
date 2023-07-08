@@ -4,10 +4,10 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-07-08 16:35:08 Asia/Shanghai
+> Automated deployment @ 2023-07-08 20:51:26 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 3071
+- **Total_stars_earned**: 3070
 
 - **Projects**: 117
 
@@ -17,8 +17,8 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|45|2023-07-08T08:35:09Z|
 |[QIN2DIM/google-intergration](https://github.com/QIN2DIM/google-intergration)|0|0|2023-07-08T06:43:18Z|
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|45|2023-07-08T04:36:04Z|
 |[QIN2DIM/tuic-installer](https://github.com/QIN2DIM/tuic-installer)|4|0|2023-07-06T22:29:53Z|
 |[QIN2DIM/awesome-hugo-themes](https://github.com/QIN2DIM/awesome-hugo-themes)|13|23|2023-07-05T08:23:39Z|
 |[QIN2DIM/undetected-playwright](https://github.com/QIN2DIM/undetected-playwright)|38|33|2023-07-03T06:08:18Z|
@@ -36,7 +36,7 @@
 |[QIN2DIM/istockphoto-go](https://github.com/QIN2DIM/istockphoto-go)|2|0|2023-02-17T13:39:36Z|
 |[QIN2DIM/istockphoto](https://github.com/QIN2DIM/istockphoto)|4|0|2023-02-17T13:11:59Z|
 |[QIN2DIM/img_pool](https://github.com/QIN2DIM/img_pool)|7|1|2023-02-02T03:00:33Z|
-|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|682|310|2023-01-13T12:18:20Z|
+|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|681|310|2023-01-13T12:18:20Z|
 |[QIN2DIM/lip-sync-battle](https://github.com/QIN2DIM/lip-sync-battle)|1|0|2023-01-07T22:32:02Z|
 |[QIN2DIM/twdown-api](https://github.com/QIN2DIM/twdown-api)|1|0|2023-01-05T04:17:12Z|
 |[QIN2DIM/hcaptcha-challenger-mirror](https://github.com/QIN2DIM/hcaptcha-challenger-mirror)|15|4|2022-11-23T05:38:52Z|
@@ -146,7 +146,7 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|8415|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
+|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|8418|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
 |[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|5404|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
 |[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|3414|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
 |[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|2407|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
