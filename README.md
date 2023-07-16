@@ -4,7 +4,7 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-07-16 10:26:32 Asia/Shanghai
+> Automated deployment @ 2023-07-16 12:35:44 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 3091
@@ -17,8 +17,8 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|45|2023-07-16T02:26:32Z|
 |[QIN2DIM/ClashByte](https://github.com/QIN2DIM/ClashByte)|0|0|2023-07-16T01:56:15Z|
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|4|45|2023-07-15T16:38:43Z|
 |[QIN2DIM/qin2dim.github.io](https://github.com/QIN2DIM/qin2dim.github.io)|5|0|2023-07-15T12:44:03Z|
 |[QIN2DIM/awesome-hugo-themes](https://github.com/QIN2DIM/awesome-hugo-themes)|14|23|2023-07-12T08:22:17Z|
 |[QIN2DIM/tuic-installer](https://github.com/QIN2DIM/tuic-installer)|4|0|2023-07-09T18:16:47Z|
