@@ -4,12 +4,12 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-08-03 12:32:44 Asia/Shanghai
+> Automated deployment @ 2023-08-03 16:33:04 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 3146
 
-- **Projects**: 122
+- **Projects**: 123
 
 ### Sources
 
@@ -17,8 +17,8 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|6|45|2023-08-03T01:41:21Z|
-|[QIN2DIM/bzy-rs](https://github.com/QIN2DIM/bzy-rs)|0|0|2023-08-02T18:01:05Z|
+|[QIN2DIM/bzy-rs](https://github.com/QIN2DIM/bzy-rs)|0|0|2023-08-03T05:38:20Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|6|45|2023-08-03T04:32:44Z|
 |[QIN2DIM/juicity-installer](https://github.com/QIN2DIM/juicity-installer)|6|0|2023-08-02T11:04:50Z|
 |[QIN2DIM/awesome-hugo-themes](https://github.com/QIN2DIM/awesome-hugo-themes)|17|23|2023-08-02T08:18:41Z|
 |[QIN2DIM/hysterical_ticket](https://github.com/QIN2DIM/hysterical_ticket)|2|0|2023-07-27T13:09:38Z|
@@ -82,10 +82,11 @@
 |[QIN2DIM/pigAI](https://github.com/QIN2DIM/pigAI)|7|0|2020-05-22T00:36:57Z|
 ### Forks
 
-- **count**: 59
+- **count**: 60
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
+|[QIN2DIM/juicity](https://github.com/QIN2DIM/juicity)|0|0|2023-08-03T06:31:10Z|
 |[QIN2DIM/threads-net](https://github.com/QIN2DIM/threads-net)|0|0|2023-07-10T11:03:45Z|
 |[QIN2DIM/Auto-GPT](https://github.com/QIN2DIM/Auto-GPT)|1|1|2023-05-22T12:35:54Z|
 |[QIN2DIM/ChuanhuChatGPT](https://github.com/QIN2DIM/ChuanhuChatGPT)|0|0|2023-04-06T13:41:38Z|
@@ -151,7 +152,7 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|8617|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
+|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|8618|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
 |[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|5451|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
 |[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|3482|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
 |[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|2428|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
