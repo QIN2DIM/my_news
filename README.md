@@ -4,7 +4,7 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-08-07 04:33:04 Asia/Shanghai
+> Automated deployment @ 2023-08-07 09:44:19 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 3154
@@ -17,7 +17,7 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|6|45|2023-08-06T16:34:34Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|6|45|2023-08-06T20:33:04Z|
 |[QIN2DIM/juicity-installer](https://github.com/QIN2DIM/juicity-installer)|6|0|2023-08-05T15:42:11Z|
 |[QIN2DIM/tuic-installer](https://github.com/QIN2DIM/tuic-installer)|8|1|2023-08-05T15:13:38Z|
 |[QIN2DIM/bzy](https://github.com/QIN2DIM/bzy)|1|0|2023-08-03T16:32:20Z|
@@ -152,14 +152,14 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|8652|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
-|[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|5454|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
+|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|8656|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
+|[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|5455|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
 |[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|3493|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
 |[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|2430|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
 |[emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria/pull/125)|2125|2022-08-29T04:44:45Z|[pull/125](https://github.com/emptysuns/Hi_Hysteria/pull/125)|
 |[DataCanvasIO/YLearn](https://github.com/DataCanvasIO/YLearn/pull/26)|320|2022-07-18T02:56:59Z|[pull/26](https://github.com/DataCanvasIO/YLearn/pull/26)|
 |[beiyuouo/arxiv-daily](https://github.com/beiyuouo/arxiv-daily/pull/1)|66|2021-11-09T02:20:42Z|[pull/1](https://github.com/beiyuouo/arxiv-daily/pull/1)|
-|[captcha-challenger/hcaptcha-model-factory](https://github.com/captcha-challenger/hcaptcha-model-factory/pull/14)|55|2022-09-04T06:01:04Z|[pull/14](https://github.com/captcha-challenger/hcaptcha-model-factory/pull/14)|
+|[captcha-challenger/hcaptcha-model-factory](https://github.com/captcha-challenger/hcaptcha-model-factory/pull/14)|56|2022-09-04T06:01:04Z|[pull/14](https://github.com/captcha-challenger/hcaptcha-model-factory/pull/14)|
 |[reuixiy/hugo-deploy](https://github.com/reuixiy/hugo-deploy/pull/10)|20|2022-11-15T15:49:07Z|[pull/10](https://github.com/reuixiy/hugo-deploy/pull/10)|
 |[CaiJimmy/stack-docs](https://github.com/CaiJimmy/stack-docs/pull/6)|6|2021-09-24T19:46:17Z|[pull/6](https://github.com/CaiJimmy/stack-docs/pull/6)|
 |[KQDtianxiaK/24.](https://github.com/KQDtianxiaK/24./pull/2)|1|2022-02-04T17:13:30Z|[pull/2](https://github.com/KQDtianxiaK/24./pull/2)|
