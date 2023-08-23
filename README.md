@@ -4,7 +4,7 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-08-23 20:46:56 Asia/Shanghai
+> Automated deployment @ 2023-08-24 00:37:09 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 3188
@@ -17,12 +17,12 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|834|234|2023-08-23T11:47:49Z|
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|6|45|2023-08-23T08:33:14Z|
+|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|692|309|2023-08-23T16:22:52Z|
+|[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|834|234|2023-08-23T16:21:43Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|6|45|2023-08-23T12:46:57Z|
 |[QIN2DIM/awesome-hugo-themes](https://github.com/QIN2DIM/awesome-hugo-themes)|20|23|2023-08-23T08:19:00Z|
 |[QIN2DIM/QIN2DIM](https://github.com/QIN2DIM/QIN2DIM)|3|1|2023-08-23T07:18:46Z|
 |[QIN2DIM/hcaptcha-challenger-docs](https://github.com/QIN2DIM/hcaptcha-challenger-docs)|1|0|2023-08-23T07:12:41Z|
-|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|692|309|2023-08-23T06:05:18Z|
 |[QIN2DIM/qin2dim.github.io](https://github.com/QIN2DIM/qin2dim.github.io)|5|0|2023-08-22T16:27:43Z|
 |[QIN2DIM/epic-awesome-gamer-docs](https://github.com/QIN2DIM/epic-awesome-gamer-docs)|2|0|2023-08-13T18:38:36Z|
 |[QIN2DIM/blog-nav](https://github.com/QIN2DIM/blog-nav)|8|21|2023-08-11T10:14:24Z|
