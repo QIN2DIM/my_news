@@ -4,7 +4,7 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-08-26 04:33:06 Asia/Shanghai
+> Automated deployment @ 2023-08-26 09:26:11 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 3192
@@ -17,7 +17,7 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|6|45|2023-08-25T16:35:51Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|6|45|2023-08-25T20:33:06Z|
 |[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|836|235|2023-08-25T07:45:30Z|
 |[QIN2DIM/undetected-playwright](https://github.com/QIN2DIM/undetected-playwright)|63|38|2023-08-25T07:30:04Z|
 |[QIN2DIM/blog-nav](https://github.com/QIN2DIM/blog-nav)|8|21|2023-08-24T15:49:24Z|
@@ -156,7 +156,7 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|8776|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
+|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|8777|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
 |[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|5513|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
 |[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|3539|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
 |[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|2459|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
