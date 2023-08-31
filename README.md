@@ -4,10 +4,10 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-08-31 16:33:14 Asia/Shanghai
+> Automated deployment @ 2023-08-31 20:47:44 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 3201
+- **Total_stars_earned**: 3200
 
 - **Projects**: 127
 
@@ -17,9 +17,9 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
+|[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|841|236|2023-08-31T09:46:24Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|6|45|2023-08-31T08:33:15Z|
 |[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|695|313|2023-08-31T04:49:43Z|
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|6|45|2023-08-31T04:33:16Z|
-|[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|841|236|2023-08-30T19:45:39Z|
 |[QIN2DIM/QIN2DIM](https://github.com/QIN2DIM/QIN2DIM)|3|1|2023-08-30T11:37:43Z|
 |[QIN2DIM/awesome-hugo-themes](https://github.com/QIN2DIM/awesome-hugo-themes)|20|23|2023-08-30T08:19:29Z|
 |[QIN2DIM/undetected-playwright](https://github.com/QIN2DIM/undetected-playwright)|63|38|2023-08-25T07:30:04Z|
@@ -34,7 +34,7 @@
 |[QIN2DIM/bzy](https://github.com/QIN2DIM/bzy)|1|0|2023-08-03T16:32:20Z|
 |[QIN2DIM/hysterical_ticket](https://github.com/QIN2DIM/hysterical_ticket)|3|0|2023-07-27T13:09:38Z|
 |[QIN2DIM/cdn-relay](https://github.com/QIN2DIM/cdn-relay)|3|0|2023-07-27T02:52:52Z|
-|[QIN2DIM/V2RayCloudSpider](https://github.com/QIN2DIM/V2RayCloudSpider)|1029|237|2023-07-25T01:56:12Z|
+|[QIN2DIM/V2RayCloudSpider](https://github.com/QIN2DIM/V2RayCloudSpider)|1028|237|2023-07-25T01:56:12Z|
 |[QIN2DIM/google-intergration](https://github.com/QIN2DIM/google-intergration)|0|0|2023-07-08T06:43:18Z|
 |[QIN2DIM/xiafan](https://github.com/QIN2DIM/xiafan)|0|0|2023-06-25T12:17:43Z|
 |[QIN2DIM/alist-quickcommand](https://github.com/QIN2DIM/alist-quickcommand)|1|0|2023-06-11T19:59:31Z|
@@ -156,8 +156,8 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|8815|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
-|[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|5523|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
+|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|8816|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
+|[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|5524|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
 |[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|3557|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
 |[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|2463|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
 |[emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria/pull/125)|2156|2022-08-29T04:44:45Z|[pull/125](https://github.com/emptysuns/Hi_Hysteria/pull/125)|
