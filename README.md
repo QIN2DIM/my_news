@@ -4,7 +4,7 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-09-17 00:34:04 Asia/Shanghai
+> Automated deployment @ 2023-09-17 04:33:05 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 3253
@@ -17,10 +17,10 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
+|[QIN2DIM/cdn-relay](https://github.com/QIN2DIM/cdn-relay)|3|0|2023-09-16T20:19:34Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|7|45|2023-09-16T16:34:04Z|
 |[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|852|240|2023-09-16T13:10:41Z|
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|7|45|2023-09-16T12:43:26Z|
 |[QIN2DIM/hy2](https://github.com/QIN2DIM/hy2)|15|1|2023-09-16T06:11:15Z|
-|[QIN2DIM/cdn-relay](https://github.com/QIN2DIM/cdn-relay)|3|0|2023-09-15T22:20:22Z|
 |[QIN2DIM/awesome-hugo-themes](https://github.com/QIN2DIM/awesome-hugo-themes)|20|23|2023-09-13T08:19:44Z|
 |[QIN2DIM/istockphoto](https://github.com/QIN2DIM/istockphoto)|6|1|2023-09-12T04:56:35Z|
 |[QIN2DIM/recaptcha-challenger](https://github.com/QIN2DIM/recaptcha-challenger)|32|19|2023-09-07T11:13:57Z|
