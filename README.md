@@ -4,21 +4,22 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-10-23 20:49:07 Asia/Shanghai
+> Automated deployment @ 2023-10-24 00:36:28 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 3611
+- **Total_stars_earned**: 3612
 
-- **Projects**: 134
+- **Projects**: 135
 
 ### Sources
 
-- **count**: 69
+- **count**: 70
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/cdn-relay](https://github.com/QIN2DIM/cdn-relay)|3|0|2023-10-23T12:44:40Z|
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|7|45|2023-10-23T08:34:38Z|
+|[QIN2DIM/cdn-relay](https://github.com/QIN2DIM/cdn-relay)|3|0|2023-10-23T16:32:45Z|
+|[QIN2DIM/Awesome-CLIP](https://github.com/QIN2DIM/Awesome-CLIP)|1|0|2023-10-23T16:00:02Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|7|45|2023-10-23T12:49:08Z|
 |[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|1146|267|2023-10-22T11:10:08Z|
 |[QIN2DIM/hy2](https://github.com/QIN2DIM/hy2)|22|1|2023-10-20T22:39:10Z|
 |[QIN2DIM/awesome-hugo-themes](https://github.com/QIN2DIM/awesome-hugo-themes)|26|23|2023-10-18T08:19:59Z|
@@ -163,7 +164,7 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|9181|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
+|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|9182|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
 |[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|5626|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
 |[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|3713|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
 |[emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria/pull/125)|2825|2022-08-29T04:44:45Z|[pull/125](https://github.com/emptysuns/Hi_Hysteria/pull/125)|
