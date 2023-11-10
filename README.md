@@ -4,7 +4,7 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-11-10 20:47:36 Asia/Shanghai
+> Automated deployment @ 2023-11-11 00:36:54 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 3689
@@ -17,11 +17,11 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/cdn-relay](https://github.com/QIN2DIM/cdn-relay)|3|0|2023-11-10T12:41:26Z|
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|7|45|2023-11-10T08:33:00Z|
-|[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|1197|269|2023-11-09T20:40:54Z|
+|[QIN2DIM/cdn-relay](https://github.com/QIN2DIM/cdn-relay)|3|0|2023-11-10T16:31:11Z|
+|[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|1197|269|2023-11-10T15:46:22Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|7|45|2023-11-10T12:47:37Z|
 |[QIN2DIM/hy2](https://github.com/QIN2DIM/hy2)|24|1|2023-11-09T07:38:49Z|
-|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|744|340|2023-11-08T17:01:16Z|
+|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|744|339|2023-11-08T17:01:16Z|
 |[QIN2DIM/awesome-hugo-themes](https://github.com/QIN2DIM/awesome-hugo-themes)|27|23|2023-11-08T08:19:52Z|
 |[QIN2DIM/video-clip-toolbox](https://github.com/QIN2DIM/video-clip-toolbox)|0|0|2023-11-07T22:31:30Z|
 |[QIN2DIM/blog-nav](https://github.com/QIN2DIM/blog-nav)|8|21|2023-11-06T17:43:27Z|
@@ -167,9 +167,9 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|9292|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
+|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|9293|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
 |[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|5644|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
-|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|3780|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
+|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|3781|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
 |[emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria/pull/125)|2919|2022-08-29T04:44:45Z|[pull/125](https://github.com/emptysuns/Hi_Hysteria/pull/125)|
 |[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|2535|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
 |[DataCanvasIO/YLearn](https://github.com/DataCanvasIO/YLearn/pull/26)|338|2022-07-18T02:56:59Z|[pull/26](https://github.com/DataCanvasIO/YLearn/pull/26)|
