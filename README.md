@@ -4,10 +4,10 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-11-12 20:45:02 Asia/Shanghai
+> Automated deployment @ 2023-11-13 00:34:37 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 3694
+- **Total_stars_earned**: 3695
 
 - **Projects**: 138
 
@@ -17,9 +17,9 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/cdn-relay](https://github.com/QIN2DIM/cdn-relay)|3|0|2023-11-12T12:41:45Z|
-|[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|1201|270|2023-11-12T11:31:22Z|
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|7|45|2023-11-12T08:32:58Z|
+|[QIN2DIM/cdn-relay](https://github.com/QIN2DIM/cdn-relay)|3|0|2023-11-12T16:30:32Z|
+|[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|1201|270|2023-11-12T15:15:22Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|7|45|2023-11-12T12:45:03Z|
 |[QIN2DIM/hy2](https://github.com/QIN2DIM/hy2)|24|1|2023-11-09T07:38:49Z|
 |[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|744|340|2023-11-08T17:01:16Z|
 |[QIN2DIM/awesome-hugo-themes](https://github.com/QIN2DIM/awesome-hugo-themes)|28|23|2023-11-08T08:19:52Z|
@@ -35,7 +35,7 @@
 |[QIN2DIM/istockphoto](https://github.com/QIN2DIM/istockphoto)|6|1|2023-09-28T03:12:29Z|
 |[QIN2DIM/test-action](https://github.com/QIN2DIM/test-action)|0|0|2023-09-26T10:12:42Z|
 |[QIN2DIM/gitstar-agent](https://github.com/QIN2DIM/gitstar-agent)|0|0|2023-09-25T11:34:04Z|
-|[QIN2DIM/recaptcha-challenger](https://github.com/QIN2DIM/recaptcha-challenger)|36|19|2023-09-07T11:13:57Z|
+|[QIN2DIM/recaptcha-challenger](https://github.com/QIN2DIM/recaptcha-challenger)|37|19|2023-09-07T11:13:57Z|
 |[QIN2DIM/undetected-playwright](https://github.com/QIN2DIM/undetected-playwright)|84|41|2023-08-25T07:30:04Z|
 |[QIN2DIM/hcaptcha-challenger-docs](https://github.com/QIN2DIM/hcaptcha-challenger-docs)|2|0|2023-08-23T07:12:41Z|
 |[QIN2DIM/epic-awesome-gamer-docs](https://github.com/QIN2DIM/epic-awesome-gamer-docs)|4|0|2023-08-13T18:38:36Z|
@@ -167,9 +167,9 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|9299|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
+|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|9302|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
 |[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|5645|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
-|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|3788|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
+|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|3791|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
 |[emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria/pull/125)|2920|2022-08-29T04:44:45Z|[pull/125](https://github.com/emptysuns/Hi_Hysteria/pull/125)|
 |[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|2535|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
 |[DataCanvasIO/YLearn](https://github.com/DataCanvasIO/YLearn/pull/26)|338|2022-07-18T02:56:59Z|[pull/26](https://github.com/DataCanvasIO/YLearn/pull/26)|
