@@ -4,12 +4,12 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-12-14 04:33:34 Asia/Shanghai
+> Automated deployment @ 2023-12-14 09:35:20 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 3810
 
-- **Projects**: 141
+- **Projects**: 142
 
 ### Sources
 
@@ -17,8 +17,8 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/cdn-relay](https://github.com/QIN2DIM/cdn-relay)|3|0|2023-12-13T20:26:26Z|
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|7|45|2023-12-13T16:37:52Z|
+|[QIN2DIM/cdn-relay](https://github.com/QIN2DIM/cdn-relay)|3|0|2023-12-13T22:44:19Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|7|45|2023-12-13T20:33:35Z|
 |[QIN2DIM/awesome-hugo-themes](https://github.com/QIN2DIM/awesome-hugo-themes)|33|23|2023-12-13T08:20:31Z|
 |[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|1266|278|2023-12-07T18:50:04Z|
 |[QIN2DIM/FlowiseAI-Railway](https://github.com/QIN2DIM/FlowiseAI-Railway)|0|0|2023-12-05T14:27:54Z|
@@ -92,7 +92,7 @@
 |[QIN2DIM/pigAI](https://github.com/QIN2DIM/pigAI)|7|0|2020-05-22T00:36:57Z|
 ### Forks
 
-- **count**: 68
+- **count**: 69
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
@@ -108,6 +108,7 @@
 |[QIN2DIM/sing-box](https://github.com/QIN2DIM/sing-box)|0|16|2023-08-08T12:42:29Z|
 |[QIN2DIM/juicity](https://github.com/QIN2DIM/juicity)|0|0|2023-08-04T06:54:39Z|
 |[QIN2DIM/threads-net](https://github.com/QIN2DIM/threads-net)|0|0|2023-07-10T11:03:45Z|
+|[QIN2DIM/Windows-11-Cursor-by-rosea92](https://github.com/QIN2DIM/Windows-11-Cursor-by-rosea92)|0|0|2023-05-31T14:08:26Z|
 |[QIN2DIM/Auto-GPT](https://github.com/QIN2DIM/Auto-GPT)|1|1|2023-05-22T12:35:54Z|
 |[QIN2DIM/ChuanhuChatGPT](https://github.com/QIN2DIM/ChuanhuChatGPT)|0|0|2023-04-06T13:41:38Z|
 |[QIN2DIM/langflow](https://github.com/QIN2DIM/langflow)|0|0|2023-04-04T00:36:07Z|
@@ -170,7 +171,7 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|9498|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
+|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|9499|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
 |[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|5718|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
 |[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|3889|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
 |[emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria/pull/125)|2977|2022-08-29T04:44:45Z|[pull/125](https://github.com/emptysuns/Hi_Hysteria/pull/125)|
