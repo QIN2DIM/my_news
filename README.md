@@ -4,10 +4,10 @@
 
 ## Statistics
 
-> Automated deployment @ 2023-12-22 20:46:02 Asia/Shanghai
+> Automated deployment @ 2023-12-23 00:36:19 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 3857
+- **Total_stars_earned**: 3856
 
 - **Projects**: 143
 
@@ -17,12 +17,12 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/cdn-relay](https://github.com/QIN2DIM/cdn-relay)|3|0|2023-12-22T12:40:31Z|
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|7|45|2023-12-22T08:33:33Z|
+|[QIN2DIM/cdn-relay](https://github.com/QIN2DIM/cdn-relay)|3|0|2023-12-22T16:30:06Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|7|45|2023-12-22T12:46:02Z|
 |[QIN2DIM/awesome-hugo-themes](https://github.com/QIN2DIM/awesome-hugo-themes)|34|23|2023-12-20T08:16:26Z|
 |[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|1291|284|2023-12-07T18:50:04Z|
 |[QIN2DIM/FlowiseAI-Railway](https://github.com/QIN2DIM/FlowiseAI-Railway)|0|0|2023-12-05T14:27:54Z|
-|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|783|358|2023-12-02T00:05:09Z|
+|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|782|358|2023-12-02T00:05:09Z|
 |[QIN2DIM/hy2](https://github.com/QIN2DIM/hy2)|31|2|2023-11-09T07:38:49Z|
 |[QIN2DIM/video-clip-toolbox](https://github.com/QIN2DIM/video-clip-toolbox)|0|0|2023-11-07T22:31:30Z|
 |[QIN2DIM/blog-nav](https://github.com/QIN2DIM/blog-nav)|8|21|2023-11-06T17:43:27Z|
@@ -179,7 +179,7 @@
 |[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|2581|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
 |[DataCanvasIO/YLearn](https://github.com/DataCanvasIO/YLearn/pull/26)|354|2022-07-18T02:56:59Z|[pull/26](https://github.com/DataCanvasIO/YLearn/pull/26)|
 |[beiyuouo/arxiv-daily](https://github.com/beiyuouo/arxiv-daily/pull/1)|68|2021-11-09T02:20:42Z|[pull/1](https://github.com/beiyuouo/arxiv-daily/pull/1)|
-|[CaptchaAgent/hcaptcha-model-factory](https://github.com/CaptchaAgent/hcaptcha-model-factory/pull/14)|66|2022-09-04T06:01:04Z|[pull/14](https://github.com/CaptchaAgent/hcaptcha-model-factory/pull/14)|
+|[CaptchaAgent/hcaptcha-model-factory](https://github.com/CaptchaAgent/hcaptcha-model-factory/pull/14)|67|2022-09-04T06:01:04Z|[pull/14](https://github.com/CaptchaAgent/hcaptcha-model-factory/pull/14)|
 |[reuixiy/hugo-deploy](https://github.com/reuixiy/hugo-deploy/pull/10)|20|2022-11-15T15:49:07Z|[pull/10](https://github.com/reuixiy/hugo-deploy/pull/10)|
 |[CaiJimmy/stack-docs](https://github.com/CaiJimmy/stack-docs/pull/6)|7|2021-09-24T19:46:17Z|[pull/6](https://github.com/CaiJimmy/stack-docs/pull/6)|
 |[KQDtianxiaK/24.](https://github.com/KQDtianxiaK/24./pull/2)|1|2022-02-04T17:13:30Z|[pull/2](https://github.com/KQDtianxiaK/24./pull/2)|
