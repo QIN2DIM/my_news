@@ -4,10 +4,10 @@
 
 ## Statistics
 
-> Automated deployment @ 2024-01-14 12:33:40 Asia/Shanghai
+> Automated deployment @ 2024-01-14 16:32:55 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 3932
+- **Total_stars_earned**: 3934
 
 - **Projects**: 143
 
@@ -17,7 +17,7 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|7|45|2024-01-14T01:42:47Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|7|45|2024-01-14T04:33:41Z|
 |[QIN2DIM/awesome-hugo-themes](https://github.com/QIN2DIM/awesome-hugo-themes)|36|23|2024-01-10T08:20:33Z|
 |[QIN2DIM/cdn-relay](https://github.com/QIN2DIM/cdn-relay)|3|0|2024-01-09T08:31:21Z|
 |[QIN2DIM/blog-nav](https://github.com/QIN2DIM/blog-nav)|8|21|2024-01-07T09:08:32Z|
@@ -29,8 +29,8 @@
 |[QIN2DIM/V2RSS](https://github.com/QIN2DIM/V2RSS)|1022|230|2023-11-03T14:12:46Z|
 |[QIN2DIM/qin2dim.github.io](https://github.com/QIN2DIM/qin2dim.github.io)|4|0|2023-10-30T13:56:46Z|
 |[QIN2DIM/QIN2DIM](https://github.com/QIN2DIM/QIN2DIM)|4|1|2023-10-30T13:54:46Z|
-|[QIN2DIM/clip2onnx](https://github.com/QIN2DIM/clip2onnx)|1|0|2023-10-26T13:45:10Z|
-|[QIN2DIM/awesome-clip-production](https://github.com/QIN2DIM/awesome-clip-production)|2|0|2023-10-23T16:00:02Z|
+|[QIN2DIM/clip2onnx](https://github.com/QIN2DIM/clip2onnx)|2|0|2023-10-26T13:45:10Z|
+|[QIN2DIM/awesome-clip-production](https://github.com/QIN2DIM/awesome-clip-production)|3|0|2023-10-23T16:00:02Z|
 |[QIN2DIM/hysterical_ticket](https://github.com/QIN2DIM/hysterical_ticket)|4|0|2023-10-07T11:08:07Z|
 |[QIN2DIM/tuic-installer](https://github.com/QIN2DIM/tuic-installer)|14|2|2023-10-07T05:40:41Z|
 |[QIN2DIM/istockphoto](https://github.com/QIN2DIM/istockphoto)|8|1|2023-09-28T03:12:29Z|
@@ -100,9 +100,9 @@
 |[QIN2DIM/FastGPT](https://github.com/QIN2DIM/FastGPT)|0|0|2023-12-03T15:56:46Z|
 |[QIN2DIM/dify](https://github.com/QIN2DIM/dify)|0|0|2023-11-29T09:14:57Z|
 |[QIN2DIM/clash-verge](https://github.com/QIN2DIM/clash-verge)|0|0|2023-11-03T05:37:27Z|
-|[QIN2DIM/onnx_clip](https://github.com/QIN2DIM/onnx_clip)|0|0|2023-10-27T13:23:57Z|
+|[QIN2DIM/onnx_clip](https://github.com/QIN2DIM/onnx_clip)|1|0|2023-10-27T13:23:57Z|
 |[QIN2DIM/XAgent](https://github.com/QIN2DIM/XAgent)|0|0|2023-10-21T12:28:32Z|
-|[QIN2DIM/aio-hcaptcha](https://github.com/QIN2DIM/aio-hcaptcha)|1|1|2023-10-20T18:29:21Z|
+|[QIN2DIM/aio-hcaptcha](https://github.com/QIN2DIM/aio-hcaptcha)|2|1|2023-10-20T18:29:21Z|
 |[QIN2DIM/github-readme-stats](https://github.com/QIN2DIM/github-readme-stats)|0|0|2023-10-17T20:43:25Z|
 |[QIN2DIM/Bard-API](https://github.com/QIN2DIM/Bard-API)|0|0|2023-09-20T10:46:14Z|
 |[QIN2DIM/ansible-juicity-install](https://github.com/QIN2DIM/ansible-juicity-install)|0|0|2023-08-12T21:08:08Z|
@@ -172,10 +172,10 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|9689|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
+|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|9688|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
 |[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|5802|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
-|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|3999|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
-|[emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria/pull/125)|2997|2022-08-29T04:44:45Z|[pull/125](https://github.com/emptysuns/Hi_Hysteria/pull/125)|
+|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|4001|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
+|[emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria/pull/125)|2998|2022-08-29T04:44:45Z|[pull/125](https://github.com/emptysuns/Hi_Hysteria/pull/125)|
 |[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|2612|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
 |[DataCanvasIO/YLearn](https://github.com/DataCanvasIO/YLearn/pull/26)|358|2022-07-18T02:56:59Z|[pull/26](https://github.com/DataCanvasIO/YLearn/pull/26)|
 |[beiyuouo/arxiv-daily](https://github.com/beiyuouo/arxiv-daily/pull/1)|69|2021-11-09T02:20:42Z|[pull/1](https://github.com/beiyuouo/arxiv-daily/pull/1)|
