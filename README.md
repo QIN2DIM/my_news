@@ -4,7 +4,7 @@
 
 ## Statistics
 
-> Automated deployment @ 2024-02-06 09:29:37 Asia/Shanghai
+> Automated deployment @ 2024-02-06 12:32:53 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 3977
@@ -17,8 +17,8 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/cdn-relay](https://github.com/QIN2DIM/cdn-relay)|3|0|2024-02-06T01:26:57Z|
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|8|45|2024-02-05T20:33:01Z|
+|[QIN2DIM/cdn-relay](https://github.com/QIN2DIM/cdn-relay)|3|0|2024-02-06T04:28:50Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|8|45|2024-02-06T01:29:37Z|
 |[QIN2DIM/awesome-hugo-themes](https://github.com/QIN2DIM/awesome-hugo-themes)|38|23|2024-01-31T08:18:30Z|
 |[QIN2DIM/hy2](https://github.com/QIN2DIM/hy2)|39|2|2024-01-21T19:01:07Z|
 |[QIN2DIM/blog-nav](https://github.com/QIN2DIM/blog-nav)|8|21|2024-01-07T09:08:32Z|
@@ -72,7 +72,7 @@
 |[QIN2DIM/Estella](https://github.com/QIN2DIM/Estella)|3|0|2022-05-14T18:00:27Z|
 |[QIN2DIM/AI_Paper_Explorer](https://github.com/QIN2DIM/AI_Paper_Explorer)|3|0|2022-05-09T08:52:26Z|
 |[QIN2DIM/armour-geetest](https://github.com/QIN2DIM/armour-geetest)|45|15|2022-04-27T14:24:04Z|
-|[QIN2DIM/v2rss-docs](https://github.com/QIN2DIM/v2rss-docs)|1|1|2022-04-04T11:30:35Z|
+|[QIN2DIM/v2rss-docs](https://github.com/QIN2DIM/v2rss-docs)|1|0|2022-04-04T11:30:35Z|
 |[QIN2DIM/v2board-mining](https://github.com/QIN2DIM/v2board-mining)|16|0|2021-12-24T19:14:46Z|
 |[QIN2DIM/armour-recaptcha](https://github.com/QIN2DIM/armour-recaptcha)|16|11|2021-12-24T13:06:03Z|
 |[QIN2DIM/armour-email](https://github.com/QIN2DIM/armour-email)|15|2|2021-12-24T13:05:03Z|
