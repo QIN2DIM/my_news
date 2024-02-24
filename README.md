@@ -4,10 +4,10 @@
 
 ## Statistics
 
-> Automated deployment @ 2024-02-24 12:32:49 Asia/Shanghai
+> Automated deployment @ 2024-02-24 16:33:16 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 4007
+- **Total_stars_earned**: 4010
 
 - **Projects**: 143
 
@@ -17,7 +17,7 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|8|45|2024-02-24T01:26:22Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|9|45|2024-02-24T04:32:50Z|
 |[QIN2DIM/awesome-hugo-themes](https://github.com/QIN2DIM/awesome-hugo-themes)|42|23|2024-02-21T08:20:29Z|
 |[QIN2DIM/cdn-relay](https://github.com/QIN2DIM/cdn-relay)|3|0|2024-02-08T14:44:43Z|
 |[QIN2DIM/hy2](https://github.com/QIN2DIM/hy2)|40|2|2024-01-21T19:01:07Z|
@@ -37,14 +37,14 @@
 |[QIN2DIM/test-action](https://github.com/QIN2DIM/test-action)|0|0|2023-09-26T10:12:42Z|
 |[QIN2DIM/gitstar-agent](https://github.com/QIN2DIM/gitstar-agent)|0|0|2023-09-25T11:34:04Z|
 |[QIN2DIM/recaptcha-challenger](https://github.com/QIN2DIM/recaptcha-challenger)|44|19|2023-09-07T11:13:57Z|
-|[QIN2DIM/undetected-playwright](https://github.com/QIN2DIM/undetected-playwright)|111|44|2023-08-25T07:30:04Z|
+|[QIN2DIM/undetected-playwright](https://github.com/QIN2DIM/undetected-playwright)|112|44|2023-08-25T07:30:04Z|
 |[QIN2DIM/hcaptcha-challenger-docs](https://github.com/QIN2DIM/hcaptcha-challenger-docs)|2|0|2023-08-23T07:12:41Z|
 |[QIN2DIM/epic-awesome-gamer-docs](https://github.com/QIN2DIM/epic-awesome-gamer-docs)|5|0|2023-08-13T18:38:36Z|
 |[QIN2DIM/juicity-installer](https://github.com/QIN2DIM/juicity-installer)|11|1|2023-08-11T04:01:44Z|
 |[QIN2DIM/ClashByte](https://github.com/QIN2DIM/ClashByte)|3|1|2023-08-09T06:42:55Z|
 |[QIN2DIM/istockphoto-rs](https://github.com/QIN2DIM/istockphoto-rs)|0|0|2023-08-07T06:53:44Z|
 |[QIN2DIM/bzy](https://github.com/QIN2DIM/bzy)|1|0|2023-08-03T16:32:20Z|
-|[QIN2DIM/google-intergration](https://github.com/QIN2DIM/google-intergration)|0|0|2023-07-08T06:43:18Z|
+|[QIN2DIM/google-intergration](https://github.com/QIN2DIM/google-intergration)|1|0|2023-07-08T06:43:18Z|
 |[QIN2DIM/xiafan](https://github.com/QIN2DIM/xiafan)|0|0|2023-06-25T12:17:43Z|
 |[QIN2DIM/alist-quickcommand](https://github.com/QIN2DIM/alist-quickcommand)|1|0|2023-06-11T19:59:31Z|
 |[QIN2DIM/mintlify-docs](https://github.com/QIN2DIM/mintlify-docs)|0|0|2023-05-29T20:15:55Z|
@@ -97,19 +97,19 @@
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
 |[QIN2DIM/langchain](https://github.com/QIN2DIM/langchain)|0|0|2024-01-29T06:24:01Z|
-|[QIN2DIM/MetaGPT](https://github.com/QIN2DIM/MetaGPT)|0|0|2023-12-15T01:20:19Z|
-|[QIN2DIM/FastGPT](https://github.com/QIN2DIM/FastGPT)|0|0|2023-12-03T15:56:46Z|
+|[QIN2DIM/MetaGPT](https://github.com/QIN2DIM/MetaGPT)|1|0|2023-12-15T01:20:19Z|
+|[QIN2DIM/FastGPT](https://github.com/QIN2DIM/FastGPT)|1|0|2023-12-03T15:56:46Z|
 |[QIN2DIM/dify](https://github.com/QIN2DIM/dify)|0|0|2023-11-29T09:14:57Z|
 |[QIN2DIM/clash-verge](https://github.com/QIN2DIM/clash-verge)|0|0|2023-11-03T05:37:27Z|
 |[QIN2DIM/onnx_clip](https://github.com/QIN2DIM/onnx_clip)|1|0|2023-10-27T13:23:57Z|
 |[QIN2DIM/XAgent](https://github.com/QIN2DIM/XAgent)|0|0|2023-10-21T12:28:32Z|
 |[QIN2DIM/aio-hcaptcha](https://github.com/QIN2DIM/aio-hcaptcha)|2|1|2023-10-20T18:29:21Z|
 |[QIN2DIM/github-readme-stats](https://github.com/QIN2DIM/github-readme-stats)|0|0|2023-10-17T20:43:25Z|
-|[QIN2DIM/Bard-API](https://github.com/QIN2DIM/Bard-API)|0|0|2023-09-20T10:46:14Z|
+|[QIN2DIM/Bard-API](https://github.com/QIN2DIM/Bard-API)|1|0|2023-09-20T10:46:14Z|
 |[QIN2DIM/ansible-juicity-install](https://github.com/QIN2DIM/ansible-juicity-install)|0|0|2023-08-12T21:08:08Z|
 |[QIN2DIM/sing-box](https://github.com/QIN2DIM/sing-box)|0|16|2023-08-08T12:42:29Z|
 |[QIN2DIM/juicity](https://github.com/QIN2DIM/juicity)|0|0|2023-08-04T06:54:39Z|
-|[QIN2DIM/threads-net](https://github.com/QIN2DIM/threads-net)|0|0|2023-07-10T11:03:45Z|
+|[QIN2DIM/threads-net](https://github.com/QIN2DIM/threads-net)|1|0|2023-07-10T11:03:45Z|
 |[QIN2DIM/Windows-11-Cursor-by-rosea92](https://github.com/QIN2DIM/Windows-11-Cursor-by-rosea92)|0|0|2023-05-31T14:08:26Z|
 |[QIN2DIM/Auto-GPT](https://github.com/QIN2DIM/Auto-GPT)|0|1|2023-05-22T12:35:54Z|
 |[QIN2DIM/ChuanhuChatGPT](https://github.com/QIN2DIM/ChuanhuChatGPT)|0|0|2023-04-06T13:41:38Z|
@@ -174,7 +174,7 @@
 | :---- | :---- | :---- | :---- |
 |[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|9983|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
 |[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|5968|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
-|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|4106|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
+|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|4107|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
 |[emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria/pull/125)|3028|2022-08-29T04:44:45Z|[pull/125](https://github.com/emptysuns/Hi_Hysteria/pull/125)|
 |[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|2664|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
 |[DataCanvasIO/YLearn](https://github.com/DataCanvasIO/YLearn/pull/26)|372|2022-07-18T02:56:59Z|[pull/26](https://github.com/DataCanvasIO/YLearn/pull/26)|
