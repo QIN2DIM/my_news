@@ -4,7 +4,7 @@
 
 ## Statistics
 
-> Automated deployment @ 2024-02-27 16:33:24 Asia/Shanghai
+> Automated deployment @ 2024-02-27 20:43:46 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 4024
@@ -17,11 +17,11 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|9|45|2024-02-27T04:32:59Z|
+|[QIN2DIM/blog-nav](https://github.com/QIN2DIM/blog-nav)|8|21|2024-02-27T09:48:54Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|9|45|2024-02-27T08:33:25Z|
 |[QIN2DIM/awesome-hugo-themes](https://github.com/QIN2DIM/awesome-hugo-themes)|44|23|2024-02-21T08:20:29Z|
 |[QIN2DIM/cdn-relay](https://github.com/QIN2DIM/cdn-relay)|3|0|2024-02-08T14:44:43Z|
 |[QIN2DIM/hy2](https://github.com/QIN2DIM/hy2)|40|2|2024-01-21T19:01:07Z|
-|[QIN2DIM/blog-nav](https://github.com/QIN2DIM/blog-nav)|8|21|2024-01-07T09:08:32Z|
 |[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|1362|294|2023-12-07T18:50:04Z|
 |[QIN2DIM/FlowiseAI-Railway](https://github.com/QIN2DIM/FlowiseAI-Railway)|0|0|2023-12-05T14:27:54Z|
 |[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|820|348|2023-12-02T00:05:09Z|
