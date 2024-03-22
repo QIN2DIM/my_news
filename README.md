@@ -4,10 +4,10 @@
 
 ## Statistics
 
-> Automated deployment @ 2024-03-22 09:29:10 Asia/Shanghai
+> Automated deployment @ 2024-03-22 12:32:50 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 4070
+- **Total_stars_earned**: 4072
 
 - **Projects**: 144
 
@@ -17,15 +17,15 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|9|45|2024-03-22T01:29:11Z|
 |[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|828|354|2024-03-21T22:29:41Z|
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|9|45|2024-03-21T20:34:18Z|
 |[QIN2DIM/awesome-hugo-themes](https://github.com/QIN2DIM/awesome-hugo-themes)|48|23|2024-03-20T08:19:14Z|
 |[QIN2DIM/xueqiu_funds](https://github.com/QIN2DIM/xueqiu_funds)|1|0|2024-03-12T13:22:22Z|
 |[QIN2DIM/hysterical_ticket](https://github.com/QIN2DIM/hysterical_ticket)|6|0|2024-03-09T13:30:43Z|
 |[QIN2DIM/blog-nav](https://github.com/QIN2DIM/blog-nav)|8|21|2024-03-05T11:31:18Z|
 |[QIN2DIM/cdn-relay](https://github.com/QIN2DIM/cdn-relay)|3|0|2024-02-08T14:44:43Z|
 |[QIN2DIM/hy2](https://github.com/QIN2DIM/hy2)|40|2|2024-01-21T19:01:07Z|
-|[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|1381|245|2023-12-07T18:50:04Z|
+|[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|1382|245|2023-12-07T18:50:04Z|
 |[QIN2DIM/FlowiseAI-Railway](https://github.com/QIN2DIM/FlowiseAI-Railway)|0|0|2023-12-05T14:27:54Z|
 |[QIN2DIM/video-clip-toolbox](https://github.com/QIN2DIM/video-clip-toolbox)|0|0|2023-11-07T22:31:30Z|
 |[QIN2DIM/V2RSS](https://github.com/QIN2DIM/V2RSS)|1026|212|2023-11-03T14:12:46Z|
@@ -76,7 +76,7 @@
 |[QIN2DIM/v2rss-docs](https://github.com/QIN2DIM/v2rss-docs)|1|0|2022-04-04T11:30:35Z|
 |[QIN2DIM/v2board-mining](https://github.com/QIN2DIM/v2board-mining)|16|0|2021-12-24T19:14:46Z|
 |[QIN2DIM/armour-recaptcha](https://github.com/QIN2DIM/armour-recaptcha)|16|11|2021-12-24T13:06:03Z|
-|[QIN2DIM/armour-email](https://github.com/QIN2DIM/armour-email)|15|2|2021-12-24T13:05:03Z|
+|[QIN2DIM/armour-email](https://github.com/QIN2DIM/armour-email)|16|2|2021-12-24T13:05:03Z|
 |[QIN2DIM/CampusDailyAutoSign](https://github.com/QIN2DIM/CampusDailyAutoSign)|16|4|2021-11-02T08:14:38Z|
 |[QIN2DIM/blog-navigate](https://github.com/QIN2DIM/blog-navigate)|4|0|2021-10-31T14:18:39Z|
 |[QIN2DIM/test-demo-repo](https://github.com/QIN2DIM/test-demo-repo)|2|0|2021-10-23T19:00:33Z|
@@ -173,7 +173,7 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|10721|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
+|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|10727|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
 |[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|6049|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
 |[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|4209|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
 |[emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria/pull/125)|3044|2022-08-29T04:44:45Z|[pull/125](https://github.com/emptysuns/Hi_Hysteria/pull/125)|
