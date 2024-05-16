@@ -4,10 +4,10 @@
 
 ## Statistics
 
-> Automated deployment @ 2024-05-16 20:48:48 Asia/Shanghai
+> Automated deployment @ 2024-05-17 00:36:17 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 4170
+- **Total_stars_earned**: 4174
 
 - **Projects**: 150
 
@@ -17,13 +17,13 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|9|45|2024-05-16T08:34:08Z|
-|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|854|363|2024-05-15T22:34:19Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|9|45|2024-05-16T12:48:48Z|
+|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|856|363|2024-05-15T22:34:19Z|
 |[QIN2DIM/awesome-hugo-themes](https://github.com/QIN2DIM/awesome-hugo-themes)|57|23|2024-05-15T08:21:12Z|
 |[QIN2DIM/dify-knowledge-pipline](https://github.com/QIN2DIM/dify-knowledge-pipline)|2|0|2024-05-15T03:00:28Z|
 |[QIN2DIM/hy2](https://github.com/QIN2DIM/hy2)|45|2|2024-05-11T19:20:14Z|
 |[QIN2DIM/wh-seo](https://github.com/QIN2DIM/wh-seo)|0|1|2024-04-30T10:34:08Z|
-|[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|1423|255|2024-04-20T11:15:09Z|
+|[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|1424|255|2024-04-20T11:15:09Z|
 |[QIN2DIM/captchax-worker](https://github.com/QIN2DIM/captchax-worker)|2|0|2024-04-14T12:31:42Z|
 |[QIN2DIM/qin2dim.github.io](https://github.com/QIN2DIM/qin2dim.github.io)|5|0|2024-04-11T12:48:40Z|
 |[QIN2DIM/xueqiu_funds](https://github.com/QIN2DIM/xueqiu_funds)|1|0|2024-03-29T02:51:40Z|
@@ -70,7 +70,7 @@
 |[QIN2DIM/fyne-poems](https://github.com/QIN2DIM/fyne-poems)|3|1|2022-08-21T18:24:22Z|
 |[QIN2DIM/TikShorts](https://github.com/QIN2DIM/TikShorts)|2|0|2022-08-19T00:01:51Z|
 |[QIN2DIM/getproxies](https://github.com/QIN2DIM/getproxies)|0|1|2022-08-18T03:27:46Z|
-|[QIN2DIM/sspanel-mining](https://github.com/QIN2DIM/sspanel-mining)|204|98|2022-06-09T13:09:54Z|
+|[QIN2DIM/sspanel-mining](https://github.com/QIN2DIM/sspanel-mining)|205|98|2022-06-09T13:09:54Z|
 |[QIN2DIM/PigAI_GPT2](https://github.com/QIN2DIM/PigAI_GPT2)|34|6|2022-05-21T13:04:17Z|
 |[QIN2DIM/gitee-deleter](https://github.com/QIN2DIM/gitee-deleter)|10|0|2022-05-18T13:36:22Z|
 |[QIN2DIM/Estella](https://github.com/QIN2DIM/Estella)|3|0|2022-05-14T18:00:27Z|
@@ -179,13 +179,13 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[langgenius/dify](https://github.com/langgenius/dify/pull/3077)|29537|2024-04-02T11:29:17Z|[pull/3077](https://github.com/langgenius/dify/pull/3077)|
-|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|11182|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
+|[langgenius/dify](https://github.com/langgenius/dify/pull/3077)|29568|2024-04-02T11:29:17Z|[pull/3077](https://github.com/langgenius/dify/pull/3077)|
+|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|11185|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
 |[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|6194|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
 |[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|4442|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
-|[developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine/pull/17)|3930|2024-04-01T11:25:16Z|[pull/17](https://github.com/developersdigest/llm-answer-engine/pull/17)|
+|[developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine/pull/17)|3936|2024-04-01T11:25:16Z|[pull/17](https://github.com/developersdigest/llm-answer-engine/pull/17)|
 |[emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria/pull/125)|3078|2022-08-29T04:44:45Z|[pull/125](https://github.com/emptysuns/Hi_Hysteria/pull/125)|
-|[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|2775|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
+|[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|2776|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
 |[DataCanvasIO/YLearn](https://github.com/DataCanvasIO/YLearn/pull/26)|381|2022-07-18T02:56:59Z|[pull/26](https://github.com/DataCanvasIO/YLearn/pull/26)|
 |[beiyuouo/arxiv-daily](https://github.com/beiyuouo/arxiv-daily/pull/1)|86|2021-11-09T02:20:42Z|[pull/1](https://github.com/beiyuouo/arxiv-daily/pull/1)|
 |[CaptchaAgent/hcaptcha-model-factory](https://github.com/CaptchaAgent/hcaptcha-model-factory/pull/14)|66|2022-09-04T06:01:04Z|[pull/14](https://github.com/CaptchaAgent/hcaptcha-model-factory/pull/14)|
