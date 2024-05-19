@@ -4,10 +4,10 @@
 
 ## Statistics
 
-> Automated deployment @ 2024-05-20 00:36:06 Asia/Shanghai
+> Automated deployment @ 2024-05-20 04:34:12 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 4178
+- **Total_stars_earned**: 4179
 
 - **Projects**: 151
 
@@ -17,14 +17,14 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|9|45|2024-05-19T12:45:45Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|9|45|2024-05-19T16:36:07Z|
 |[QIN2DIM/undetected-playwright](https://github.com/QIN2DIM/undetected-playwright)|124|26|2024-05-19T02:08:47Z|
-|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|857|363|2024-05-18T22:29:15Z|
+|[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|857|362|2024-05-18T22:29:15Z|
 |[QIN2DIM/awesome-hugo-themes](https://github.com/QIN2DIM/awesome-hugo-themes)|57|23|2024-05-15T08:21:12Z|
 |[QIN2DIM/dify-knowledge-pipline](https://github.com/QIN2DIM/dify-knowledge-pipline)|2|0|2024-05-15T03:00:28Z|
 |[QIN2DIM/hy2](https://github.com/QIN2DIM/hy2)|45|2|2024-05-11T19:20:14Z|
 |[QIN2DIM/wh-seo](https://github.com/QIN2DIM/wh-seo)|0|1|2024-04-30T10:34:08Z|
-|[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|1425|257|2024-04-20T11:15:09Z|
+|[QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger)|1426|257|2024-04-20T11:15:09Z|
 |[QIN2DIM/captchax-worker](https://github.com/QIN2DIM/captchax-worker)|2|0|2024-04-14T12:31:42Z|
 |[QIN2DIM/qin2dim.github.io](https://github.com/QIN2DIM/qin2dim.github.io)|5|0|2024-04-11T12:48:40Z|
 |[QIN2DIM/xueqiu_funds](https://github.com/QIN2DIM/xueqiu_funds)|1|0|2024-03-29T02:51:40Z|
@@ -176,15 +176,16 @@
 |[QIN2DIM/a_journey_into_math_of_ml](https://github.com/QIN2DIM/a_journey_into_math_of_ml)|0|0|2019-09-29T02:24:52Z|
 ### Contributed
 
-- **count**: 13
+- **count**: 14
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[langgenius/dify](https://github.com/langgenius/dify/pull/3077)|29930|2024-04-02T11:29:17Z|[pull/3077](https://github.com/langgenius/dify/pull/3077)|
-|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|11193|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
+|[langgenius/dify](https://github.com/langgenius/dify/pull/3077)|29944|2024-04-02T11:29:17Z|[pull/3077](https://github.com/langgenius/dify/pull/3077)|
+|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|11194|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
+|[VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai/pull/269)|8709|2024-05-19T20:28:49Z|[pull/269](https://github.com/VinciGit00/Scrapegraph-ai/pull/269)|
 |[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|6201|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
 |[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|4443|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
-|[developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine/pull/17)|4002|2024-04-01T11:25:16Z|[pull/17](https://github.com/developersdigest/llm-answer-engine/pull/17)|
+|[developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine/pull/17)|4003|2024-04-01T11:25:16Z|[pull/17](https://github.com/developersdigest/llm-answer-engine/pull/17)|
 |[emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria/pull/125)|3076|2022-08-29T04:44:45Z|[pull/125](https://github.com/emptysuns/Hi_Hysteria/pull/125)|
 |[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|2778|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
 |[DataCanvasIO/YLearn](https://github.com/DataCanvasIO/YLearn/pull/26)|381|2022-07-18T02:56:59Z|[pull/26](https://github.com/DataCanvasIO/YLearn/pull/26)|
