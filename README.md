@@ -4,7 +4,7 @@
 
 ## Statistics
 
-> Automated deployment @ 2024-05-22 00:36:31 Asia/Shanghai
+> Automated deployment @ 2024-05-22 04:33:18 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 4181
@@ -17,7 +17,7 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|9|45|2024-05-21T12:49:16Z|
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|9|45|2024-05-21T16:36:32Z|
 |[QIN2DIM/QIN2DIM](https://github.com/QIN2DIM/QIN2DIM)|4|1|2024-05-21T08:02:28Z|
 |[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|858|362|2024-05-20T22:30:44Z|
 |[QIN2DIM/undetected-playwright](https://github.com/QIN2DIM/undetected-playwright)|124|26|2024-05-19T02:08:47Z|
@@ -180,9 +180,9 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[langgenius/dify](https://github.com/langgenius/dify/pull/3077)|30311|2024-04-02T11:29:17Z|[pull/3077](https://github.com/langgenius/dify/pull/3077)|
-|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|11206|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
-|[VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai/pull/269)|8919|2024-05-19T20:28:49Z|[pull/269](https://github.com/VinciGit00/Scrapegraph-ai/pull/269)|
+|[langgenius/dify](https://github.com/langgenius/dify/pull/3077)|30324|2024-04-02T11:29:17Z|[pull/3077](https://github.com/langgenius/dify/pull/3077)|
+|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|11205|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
+|[VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai/pull/269)|8926|2024-05-19T20:28:49Z|[pull/269](https://github.com/VinciGit00/Scrapegraph-ai/pull/269)|
 |[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|6206|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
 |[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|4453|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
 |[developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine/pull/17)|4022|2024-04-01T11:25:16Z|[pull/17](https://github.com/developersdigest/llm-answer-engine/pull/17)|
