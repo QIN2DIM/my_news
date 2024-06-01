@@ -4,12 +4,12 @@
 
 ## Statistics
 
-> Automated deployment @ 2024-06-02 00:35:33 Asia/Shanghai
+> Automated deployment @ 2024-06-02 04:33:24 Asia/Shanghai
 ### User
 
-- **Total_stars_earned**: 4204
+- **Total_stars_earned**: 4205
 
-- **Projects**: 152
+- **Projects**: 153
 
 ### Sources
 
@@ -17,11 +17,11 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|9|45|2024-06-01T16:35:33Z|
 |[QIN2DIM/hy2](https://github.com/QIN2DIM/hy2)|47|3|2024-06-01T16:31:43Z|
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|9|45|2024-06-01T12:46:27Z|
 |[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|866|365|2024-05-31T22:30:10Z|
 |[QIN2DIM/dify-knowledge-pipeline](https://github.com/QIN2DIM/dify-knowledge-pipeline)|4|0|2024-05-31T09:51:37Z|
-|[QIN2DIM/awesome-hugo-themes](https://github.com/QIN2DIM/awesome-hugo-themes)|59|23|2024-05-29T08:22:18Z|
+|[QIN2DIM/awesome-hugo-themes](https://github.com/QIN2DIM/awesome-hugo-themes)|60|23|2024-05-29T08:22:18Z|
 |[QIN2DIM/QIN2DIM](https://github.com/QIN2DIM/QIN2DIM)|4|1|2024-05-27T15:37:21Z|
 |[QIN2DIM/undetected-playwright](https://github.com/QIN2DIM/undetected-playwright)|129|26|2024-05-19T02:08:47Z|
 |[QIN2DIM/wh-seo](https://github.com/QIN2DIM/wh-seo)|0|1|2024-04-30T10:34:08Z|
@@ -96,11 +96,12 @@
 |[QIN2DIM/pigAI](https://github.com/QIN2DIM/pigAI)|7|0|2020-05-22T00:36:57Z|
 ### Forks
 
-- **count**: 75
+- **count**: 76
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
-|[QIN2DIM/ChatTTS](https://github.com/QIN2DIM/ChatTTS)|0|0|2024-05-30T17:38:11Z|
+|[QIN2DIM/ChatTTS-ui](https://github.com/QIN2DIM/ChatTTS-ui)|0|0|2024-06-01T19:56:42Z|
+|[QIN2DIM/ChatTTS](https://github.com/QIN2DIM/ChatTTS)|0|0|2024-06-01T17:15:10Z|
 |[QIN2DIM/Scrapegraph-ai](https://github.com/QIN2DIM/Scrapegraph-ai)|0|0|2024-05-20T01:15:57Z|
 |[QIN2DIM/crawl4ai-fork](https://github.com/QIN2DIM/crawl4ai-fork)|0|0|2024-05-18T15:31:13Z|
 |[QIN2DIM/dify](https://github.com/QIN2DIM/dify)|0|0|2024-04-02T04:43:27Z|
@@ -177,18 +178,19 @@
 |[QIN2DIM/a_journey_into_math_of_ml](https://github.com/QIN2DIM/a_journey_into_math_of_ml)|0|0|2019-09-29T02:24:52Z|
 ### Contributed
 
-- **count**: 15
+- **count**: 16
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[langgenius/dify](https://github.com/langgenius/dify/pull/3077)|31990|2024-04-02T11:29:17Z|[pull/3077](https://github.com/langgenius/dify/pull/3077)|
+|[langgenius/dify](https://github.com/langgenius/dify/pull/3077)|32017|2024-04-02T11:29:17Z|[pull/3077](https://github.com/langgenius/dify/pull/3077)|
 |[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|11397|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
-|[VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai/pull/269)|9548|2024-05-26T07:10:24Z|[pull/269](https://github.com/VinciGit00/Scrapegraph-ai/pull/269)|
+|[VinciGit00/Scrapegraph-ai](https://github.com/VinciGit00/Scrapegraph-ai/pull/269)|9566|2024-05-26T07:10:24Z|[pull/269](https://github.com/VinciGit00/Scrapegraph-ai/pull/269)|
 |[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|6230|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
 |[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|4482|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
 |[developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine/pull/17)|4122|2024-04-01T11:25:16Z|[pull/17](https://github.com/developersdigest/llm-answer-engine/pull/17)|
 |[emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria/pull/125)|3083|2022-08-29T04:44:45Z|[pull/125](https://github.com/emptysuns/Hi_Hysteria/pull/125)|
 |[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|2790|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
+|[jianchang512/ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui/pull/39)|1033|2024-06-01T17:54:31Z|[pull/39](https://github.com/jianchang512/ChatTTS-ui/pull/39)|
 |[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai/pull/3)|725|2024-05-23T01:29:54Z|[pull/3](https://github.com/unclecode/crawl4ai/pull/3)|
 |[DataCanvasIO/YLearn](https://github.com/DataCanvasIO/YLearn/pull/26)|382|2022-07-18T02:56:59Z|[pull/26](https://github.com/DataCanvasIO/YLearn/pull/26)|
 |[beiyuouo/arxiv-daily](https://github.com/beiyuouo/arxiv-daily/pull/1)|89|2021-11-09T02:20:42Z|[pull/1](https://github.com/beiyuouo/arxiv-daily/pull/1)|
