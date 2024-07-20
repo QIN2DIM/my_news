@@ -4,7 +4,7 @@
 
 ## Statistics
 
-> Automated deployment @ 2024-07-20 09:40:55 Asia/Shanghai
+> Automated deployment @ 2024-07-20 12:36:40 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 4280
@@ -17,9 +17,9 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|9|45|2024-07-20T01:40:55Z|
 |[QIN2DIM/qin2dim.github.io](https://github.com/QIN2DIM/qin2dim.github.io)|5|0|2024-07-20T01:34:39Z|
 |[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|877|360|2024-07-19T22:30:56Z|
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|9|45|2024-07-19T20:34:14Z|
 |[QIN2DIM/awesome-hugo-themes](https://github.com/QIN2DIM/awesome-hugo-themes)|67|23|2024-07-17T08:22:19Z|
 |[QIN2DIM/xhs-spider](https://github.com/QIN2DIM/xhs-spider)|0|0|2024-07-07T04:33:11Z|
 |[QIN2DIM/blog-nav](https://github.com/QIN2DIM/blog-nav)|9|3|2024-06-03T15:26:20Z|
@@ -186,9 +186,9 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[langgenius/dify](https://github.com/langgenius/dify/pull/3077)|38213|2024-04-02T11:29:17Z|[pull/3077](https://github.com/langgenius/dify/pull/3077)|
-|[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai/pull/269)|13333|2024-05-26T07:10:24Z|[pull/269](https://github.com/ScrapeGraphAI/Scrapegraph-ai/pull/269)|
-|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|11713|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
+|[langgenius/dify](https://github.com/langgenius/dify/pull/3077)|38223|2024-04-02T11:29:17Z|[pull/3077](https://github.com/langgenius/dify/pull/3077)|
+|[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai/pull/269)|13334|2024-05-26T07:10:24Z|[pull/269](https://github.com/ScrapeGraphAI/Scrapegraph-ai/pull/269)|
+|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|11714|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
 |[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|6311|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
 |[jianchang512/ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui/pull/39)|5320|2024-06-01T17:54:31Z|[pull/39](https://github.com/jianchang512/ChatTTS-ui/pull/39)|
 |[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|4633|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
