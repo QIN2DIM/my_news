@@ -4,7 +4,7 @@
 
 ## Statistics
 
-> Automated deployment @ 2024-09-29 20:53:23 Asia/Shanghai
+> Automated deployment @ 2024-09-30 00:40:40 Asia/Shanghai
 ### User
 
 - **Total_stars_earned**: 4381
@@ -17,8 +17,8 @@
 
 | **name** | **stars** | **forks** | **pushed_at** |
 | :---- | :---- | :---- | :---- |
+|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|11|1|2024-09-29T12:53:23Z|
 |[QIN2DIM/hy2-rs](https://github.com/QIN2DIM/hy2-rs)|0|0|2024-09-29T09:28:35Z|
-|[QIN2DIM/my_news](https://github.com/QIN2DIM/my_news)|11|1|2024-09-29T08:39:02Z|
 |[QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer)|902|374|2024-09-28T22:31:29Z|
 |[QIN2DIM/awesome-hugo-themes](https://github.com/QIN2DIM/awesome-hugo-themes)|80|23|2024-09-25T08:27:02Z|
 |[QIN2DIM/pkg-workflow](https://github.com/QIN2DIM/pkg-workflow)|0|0|2024-09-10T02:09:10Z|
@@ -190,17 +190,17 @@
 
 | **name** | **stars** | **updated_at** | **stick** |
 | :---- | :---- | :---- | :---- |
-|[langgenius/dify](https://github.com/langgenius/dify/pull/3077)|46803|2024-04-02T11:29:17Z|[pull/3077](https://github.com/langgenius/dify/pull/3077)|
-|[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai/pull/269)|14628|2024-05-26T07:10:24Z|[pull/269](https://github.com/ScrapeGraphAI/Scrapegraph-ai/pull/269)|
+|[langgenius/dify](https://github.com/langgenius/dify/pull/3077)|46815|2024-04-02T11:29:17Z|[pull/3077](https://github.com/langgenius/dify/pull/3077)|
+|[ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai/pull/269)|14630|2024-05-26T07:10:24Z|[pull/269](https://github.com/ScrapeGraphAI/Scrapegraph-ai/pull/269)|
 |[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice/pull/371)|12071|2023-02-24T01:09:15Z|[pull/371](https://github.com/sunface/rust-by-practice/pull/371)|
 |[joerick/pyinstrument](https://github.com/joerick/pyinstrument/pull/148)|6468|2021-09-17T20:54:02Z|[pull/148](https://github.com/joerick/pyinstrument/pull/148)|
 |[jianchang512/ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui/pull/39)|5968|2024-06-01T17:54:31Z|[pull/39](https://github.com/jianchang512/ChatTTS-ui/pull/39)|
+|[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai/pull/3)|5079|2024-05-23T01:29:54Z|[pull/3](https://github.com/unclecode/crawl4ai/pull/3)|
 |[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|4870|2021-09-24T18:23:04Z|[pull/360](https://github.com/CaiJimmy/hugo-theme-stack/pull/360)|
-|[unclecode/crawl4ai](https://github.com/unclecode/crawl4ai/pull/3)|4769|2024-05-23T01:29:54Z|[pull/3](https://github.com/unclecode/crawl4ai/pull/3)|
 |[developersdigest/llm-answer-engine](https://github.com/developersdigest/llm-answer-engine/pull/17)|4569|2024-04-01T11:25:16Z|[pull/17](https://github.com/developersdigest/llm-answer-engine/pull/17)|
-|[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|3386|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
+|[alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book/pull/386)|3387|2021-11-19T12:33:02Z|[pull/386](https://github.com/alex-shpak/hugo-book/pull/386)|
 |[emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria/pull/125)|3110|2022-08-29T04:44:45Z|[pull/125](https://github.com/emptysuns/Hi_Hysteria/pull/125)|
-|[FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice/pull/6)|2781|2024-07-08T05:38:58Z|[pull/6](https://github.com/FunAudioLLM/SenseVoice/pull/6)|
+|[FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice/pull/6)|2782|2024-07-08T05:38:58Z|[pull/6](https://github.com/FunAudioLLM/SenseVoice/pull/6)|
 |[DataCanvasIO/YLearn](https://github.com/DataCanvasIO/YLearn/pull/26)|396|2022-07-18T02:56:59Z|[pull/26](https://github.com/DataCanvasIO/YLearn/pull/26)|
 |[beiyuouo/arxiv-daily](https://github.com/beiyuouo/arxiv-daily/pull/1)|115|2021-11-09T02:20:42Z|[pull/1](https://github.com/beiyuouo/arxiv-daily/pull/1)|
 |[CaptchaAgent/hcaptcha-model-factory](https://github.com/CaptchaAgent/hcaptcha-model-factory/pull/14)|71|2022-09-04T06:01:04Z|[pull/14](https://github.com/CaptchaAgent/hcaptcha-model-factory/pull/14)|
